@@ -1,0 +1,1153 @@
+canonical_identifier: bkk:krp/KR3l0062/bkk/v1/markers/5
+seq: 5
+markers:
+  front:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR3l0062_SBCK_005-1a01}
+  - {type: variant, offset: 0, length: 1, content: 揮, WYG: 撰}
+  - {type: variant, offset: 1, length: 1, content: 麈, WYG: 王}
+  - {type: variant, offset: 2, length: 1, content: 後, WYG: 絲}
+  - {type: variant, offset: 3, length: 1, content: 録, WYG: 字}
+  - {type: variant, offset: 4, length: 1, content: 緫, WYG: 敦}
+  - {type: variant, offset: 5, length: 1, content: 目, WYG: 素}
+  - {type: 'kr:newline', offset: 6, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl2}
+  - {type: line-break, offset: 6, content: '', id: KR3l0062_SBCK_005-1a02}
+  - {type: variant, offset: 6, length: 1, content: 卷, WYG: 越}
+  - {type: variant, offset: 8, length: 0, content: '', WYG: 蕭山人景祐初為縣令㑹嵗歉絲每家支錢}
+  - {type: 'kr:newline', offset: 9, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl3}
+  - {type: line-break, offset: 9, content: '', id: KR3l0062_SBCK_005-1a03}
+  - {type: variant, offset: 9, length: 5, content: 乙自漢哀帝, WYG: 千以濟之期以明年夏輸絹壹匹邑人大受其恵稱為徳政繇此當路薦之葢是時一縑售價不逾其數爾仕止郎曹典州而已范文正公為作墓誌具載其事王荆公當國倣其法施之天下號為和買久之本錢既不復俵且有折帛之害世誤𫝊始於王儀仲素儀仲文正公之子早即貴逹未嘗為邑官至八座沒諡懿敏國史本𫝊可考其子鞏字定國與東坡先生游李定字仲求洪州人晏元獻公之甥文亦竒欲預賽神㑹而蘇子美以其任子距之致興大獄梅聖俞謂一客不得食覆鼎傷衆賔者其孫即商老彭以詩名列江西派中又李定字資深元豐御史中丞其孫方叔正民兄弟皆顯名一時揚州人又李定嘉祐治平}
+  - {type: page-break, offset: 9, content: '', id: KR3l0062_WYG_004-1b, image: WYG1038/WYG1038-0390b.png}
+  - {type: page-break, offset: 9, content: '', id: KR3l0062_WYG_004-2a, image: WYG1038/WYG1038-0390c.png}
+  - {type: variant, offset: 16, length: 0, content: '', WYG: 以風采聞嘗遍}
+  - {type: variant, offset: 17, length: 3, content: 代加上, WYG: 天下諸路計度轉運使官制未行老于正卿乃敦老如岡之祖葢濟南人也同姓名者凡三人世亦多指而為一不可不辯李􅀢陽翟人東坡先生門下士亦字方叔兩方叔俱以文鳴詩章又多互𫝊於世郭稹字仲微仕至龍圖閣學士權知開封府幼孤母邊更嫁王氏既而母亡稹解官服喪知禮院宋祁言稹服喪為過禮請下有司博議因馮元等奏聽解官申心喪始此太祖}
+  - {type: page-break, offset: 17, content: '', id: KR3l0062_WYG_004-2b, image: WYG1038/WYG1038-0390d.png}
+  - {type: indent, offset: 20, content: 　, id: KR3l0062_krp_005-bkkind1}
+  - {type: variant, offset: 22, length: 0, content: '', WYG: 立極之初西蜀未下益州三泉縣令間道馳騎齎賀表率先至闕下上大喜平蜀後詔令三泉縣不𨽻州郡遇賀慶許發表章直逹榻前至今甲令毎於諸州軍監下注云三泉縣同是矣元符末龔言序為縣尉婦弟江端本子之薄遊至邑令簿素與龔不叶相帥遊山經宿未回龔攝縣事忽赦書至徽宗登寳位龔即宣詔稱賀偶未有子亟令子之奉表詣都令歸已無及銓曹以初品官無奏異姓無服親之文沮之子之早負俊名曾文肅當國為將上取旨特補河南府助教今之上州文學也後子之官與職俱至正郎一時以為異事紹興初四川制司建言陞縣為軍失祖宗之指矣張逸字天𨼆鄭州人登進士初嘗以樞密直學士知益州蜀人諳其民風華陽縣鄉長殺人誣道旁者縣吏受財獄具乃令殺人者守囚逸曰囚色寃守者氣不直豈守者殺人乎囚始敢言而守者果服立誅之蜀人以為神嵗飢民多殺耕牛食之犯者皆配關中逸奏民殺牛以活將廢穯事今嵗小稔請一切放還復其業報可凡四守益州逸子峋嵫亦有顯名于世嵫諸孫即端明殿學士澄也兩朝史章文憲得𧰼𫝊末云初閩人謠曰南臺沙合出宰相至得𧰼相時沙湧可涉政和六年沙復湧已而余丞相深大拜十餘年前外舅方公務德帥福唐南臺沙忽再湧已而朱漢章葉子昻相繼登庸昔人最重契義朋從年長則以兄事之齒少以弟或友呼焉父之交遊敬之為丈見之必拜執子姪之禮甚恭丈人行者命與其諸郎遊子又有孫各崇輩行略不紊亂如分守之嚴舊例書札止云啓或止稍}
+  - {type: page-break, offset: 22, content: '', id: KR3l0062_WYG_004-3a, image: WYG1038/WYG1038-0391a.png}
+  - {type: page-break, offset: 22, content: '', id: KR3l0062_WYG_004-3b, image: WYG1038/WYG1038-0391b.png}
+  - {type: page-break, offset: 22, content: '', id: KR3l0062_WYG_004-4a, image: WYG1038/WYG1038-0391c.png}
+  - {type: variant, offset: 23, length: 0, content: '', WYG: 之則再拜雖行高而位崇者不過曰頓首再拜而已非父兄不施覆字宰輔以上方曰台候餘不敢也前輩名卿尺牘中可考今俱不然誠可太息太平興國六年五月詔遣供奉官王延徳殿前承㫖白勲使高昌雍熙元年四月延徳等叙其行程來上云初自夏州歴玉亭鎮次歴黄羊平其地平而産黄羊度沙磧無水行人皆載水凡二日次都囉囉族漢使過者遺以財貨謂之打當次歴茅家喎子族臨黄河以羊皮為囊吹氣實之浮於水或以囊馳牽木栰而度次歴茅女王子開道族行入六窠砂砂深三尺馬不能行行者皆乘槖駞不育五穀砂中生草名登相收之以食次歴樓子山無居人行砂磧中以日為占旦則背日暮則向日日下則止又行望月亦如之次歴卧羊梁劾特族地有都督山唐回鶻之地次歴太子大蟲族接契丹界人衣尚錦綿器用金銀馬乳醸酒飲之亦醉次歴屋地目族葢托雲裕恱王子之子次至托雲裕恱王子族此九族逹靼中尤尊者次歴伊喇王子族有哈喇川唐回鶻公主所居之地城基尚在有湯泉池𫝊曰契丹舊為囘鶻牧羊逹靼舊為回紇牧牛囘紇徙甘州契丹逹靼遂各争長攻戰次歴阿墩族經馬鬃山望鄉嶺嶺上石庵有李陵題字處次歴格囉美源西方百川所㑹極望無際鷗鷺鳬㕍之𩔖甚衆次至托邉城亦名李僕射城城中首領}
+  - {type: page-break, offset: 23, content: '', id: KR3l0062_WYG_004-4b, image: WYG1038/WYG1038-0391d.png}
+  - {type: page-break, offset: 23, content: '', id: KR3l0062_WYG_004-5a, image: WYG1038/WYG1038-0392a.png}
+  - {type: page-break, offset: 23, content: '', id: KR3l0062_WYG_004-5b, image: WYG1038/WYG1038-0392b.png}
+  - {type: 'kr:newline', offset: 24, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl4}
+  - {type: line-break, offset: 24, content: '', id: KR3l0062_SBCK_005-1a04}
+  - {type: variant, offset: 24, length: 0, content: '', WYG: 通天王次歴小石州次歴伊州州將陳氏其先自唐開元}
+  - {type: variant, offset: 25, length: 0, content: '', WYG: 年領州凡數十世唐時詔勅尚在地有野􅁞生苦參上可為綿帛有羊尾大而不能走尾重者三斤小者一斤肉如熊白而甚美又有勵石剖之得賓鐡謂之喫鐡石又生胡桐樹經雨即生胡桐律次歴益都次歴納職城在大患鬼魅磧之東南望玉門關甚近地無水草載糧以行凡三日至思谷曰避風驛本俗法試出詔押御風御風乃息凡八日至澤田寺高昌聞使至遣人來迎次歴寳莊又歴六鍾乃至高昌高昌即西州也其地距于闐西南距大石波斯西距西天步露沙雪山蔥嶺皆數千里地無雨雪而極熱每盛暑人皆穿池為穴以處飛鳥羣萃河濱或起飛即為日氣所爍墜而傷翼屋室覆以白堊開寳二年雨及五寸即廬舎多壞有水出金嶺導之周繞國城以溉田園作水磑地產五穀惟無喬麥貴人食馬餘食牛及鳬㕍樂多箜篌出貂鼠白㲲綉文花蘂布俗多騎射婦人戴油帽謂之蘇幕遮用開元七年厯以三月九日為寒食餘二社冬至亦然以銀或鍮為筒貯水激以相射或以水交潑為戲謂之壓陽氣去病好遊賞行者必抱樂器佛寺五十餘區皆唐朝所賜額寺中有大藏經唐韻玉篇經音等居民春月多遊羣聚遨樂於其間遊者馬上持弓矢射諸物謂之禳灾有勅書樓藏唐}
+  - {type: page-break, offset: 25, content: '', id: KR3l0062_WYG_004-6a, image: WYG1038/WYG1038-0392c.png}
+  - {type: page-break, offset: 25, content: '', id: KR3l0062_WYG_004-6b, image: WYG1038/WYG1038-0392d.png}
+  - {type: page-break, offset: 25, content: '', id: KR3l0062_WYG_004-7a, image: WYG1038/WYG1038-0393a.png}
+  - {type: variant, offset: 26, length: 2, content: 祖興, WYG: 宗明皇御札詔勅緘鎖甚謹後有摩尼寺波斯僧各持其法佛經所謂外道者也統有南突厥北突厥大衆熨小衆熨様磨割禄􅃛戞司末蠻格哆族預龍族之名甚衆國中無貧民絶食者共振之人多夀考率百餘嵗絶無天死時四月獅子王避暑於北廷以其舅阿多裕恱守國先遣人致意於延德曰我王舅也使者拜我乎延德曰持朝命而來禮不當拜復問曰見王拜乎延德曰禮亦不當拜阿多裕悦復數日始出相見然其禮頗恭獅子王邀延德至其北庭歴交河州凡六日至金嶺口寳貨所出又兩日至漢家寨又五日上金嶺温嶺即多雨雪上有龍王刻石記云小雪山也嶺上有積雪行人皆服毛􅄢度嶺一日至北廷憩高臺寺其王烹羊馬以具饍尤豐潔地多馬王及王后太子各飬馬牧放於平川中彌亘百餘里以毛色分别為羣莫知其數北廷川長廣數千里鷹鷂鵰鶻之所生多美草下生花砂䑕大如䨲鷙禽捕食之其王遣人來言擇日以見使者願無任其淹久至七日見其王子侍者皆東向拜受賜旁有持磬者擊以節拜王聞磬聲乃拜既而}
+  - {type: page-break, offset: 26, content: '', id: KR3l0062_WYG_004-7b, image: WYG1038/WYG1038-0393b.png}
+  - {type: page-break, offset: 26, content: '', id: KR3l0062_WYG_004-8a, image: WYG1038/WYG1038-0393c.png}
+  - {type: variant, offset: 30, length: 1, content: 兆, WYG: 兒女親屬皆出羅拜以受賜遂張樂飲燕為優戲至暮明日泛舟於池中池四面作鼓樂又明日遊佛寺曰應運泰寜之寺貞觀十四年造北廷北山中出􅗠砂山中常有􅈣氣湧起而無雲霧且又光燄若炬照見禽鼠皆赤采􅗠砂者著木底鞵若皮為底者即焦下有穴生清泥出穴外即變為砂石土人取以治皮城中多樓臺草木人白晳端正惟工巧善治金銀銅鐡為器及攻玉善馬直絹一疋其駑馬充食者纔直一丈貧者皆食肉西抵安西即唐之西境七月令延德先還其國其王始至亦聞有契丹使來脣缺以銀葉蔽之謂其王曰聞漢遣使入逹靼而道出王境誘王窺邉宜早送至逹靼無使久畱因云高敞本漢土漢使來覘視封域將有異圖王當察之延德偵知其語因謂王曰契丹素不順中國今乃反間我欲殺之王固勸乃止自六年五月離京師七年四月至高昌所歴以詔賜諸蕃君長襲衣金帶贈帛八年春與其謝恩使凡百餘人復循舊路而還雍熙元年四月至京師延徳初至逹靼之境頗見晉末陷敵者之子孫咸相率􅃒迎獻飲食問其鄉里親戚意甚悽感畱旬日不得去延徳之自叙云此雖載于國史而世莫熟知用書于編以俟通道九夷八蠻將使指者或取諸此焉紹興丙辰明清甫十嵗時朱}
+  - {type: page-break, offset: 30, content: '', id: KR3l0062_WYG_004-8b, image: WYG1038/WYG1038-0393d.png}
+  - {type: page-break, offset: 30, content: '', id: KR3l0062_WYG_004-9a, image: WYG1038/WYG1038-0394a.png}
+  - {type: page-break, offset: 30, content: '', id: KR3l0062_WYG_004-9b, image: WYG1038/WYG1038-0394b.png}
+  - {type: 'kr:newline', offset: 31, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl5}
+  - {type: line-break, offset: 31, content: '', id: KR3l0062_SBCK_005-1a05}
+  - {type: variant, offset: 32, length: 0, content: '', WYG: 十五丈希真徐五丈敦立俱為正字來過先人先人命明清出拜二公詢以國史中數事隨即應之無遺繇是受二公非常之知于弱齡希真之相予多見其詞翰中後二十年明清為方壻敦立守}
+  - {type: variant, offset: 33, length: 0, content: '', WYG: 陽以書與外舅云聞近納某字之子為壻豈非字仲言者乎具道疇昔時事且過相溢美又數年敦立為貳卿明清偶訪之坐間忽發問曰度今此居號侍郎橋何耶明清即應以仁宗朝郎簡杭}
+  - {type: page-break, offset: 33, content: '', id: KR3l0062_WYG_004-10a, image: WYG1038/WYG1038-0394c.png}
+  - {type: variant, offset: 34, length: 39, content: 創端命殿崇奉太祖御容四祖宗規撫宏逺五太祖藏弓弩於楊州郡治宣和間得用六祖宗置公庫, WYG: 人}
+  - {type: indent, offset: 40, content: 　, id: KR3l0062_krp_005-bkkind2}
+  - {type: 'kr:newline', offset: 44, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl6}
+  - {type: line-break, offset: 44, content: '', id: KR3l0062_SBCK_005-1a06}
+  - {type: 'kr:newline', offset: 51, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl7}
+  - {type: line-break, offset: 51, content: '', id: KR3l0062_SBCK_005-1a07}
+  - {type: variant, offset: 55, length: 1, content: 弓, SBCK: 􅃓}
+  - {type: 'kr:newline', offset: 67, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl8}
+  - {type: line-break, offset: 67, content: '', id: KR3l0062_SBCK_005-1a08}
+  - {type: variant, offset: 74, length: 5, content: 待過客欲使, WYG: 工部侍郎致仕居此里}
+  - {type: variant, offset: 80, length: 3, content: 無旅寓, WYG: 德}
+  - {type: variant, offset: 84, length: 12, content: 歎七太宗収用舊臣處之編修, WYG: 遂}
+  - {type: 'kr:newline', offset: 85, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl9}
+  - {type: line-break, offset: 85, content: '', id: KR3l0062_SBCK_005-1a09}
+  - {type: variant, offset: 97, length: 37, content: 役其心八錢氏逢辰録言朝廷典故甚詳九章獻太后命儒臣編書鏤板禁中十天聖中詔修三, WYG: 名橋又問郎表德謂何明清云兩}
+  - {type: 'kr:newline', offset: 100, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl10}
+  - {type: line-break, offset: 100, content: '', id: KR3l0062_SBCK_005-1a10}
+  - {type: 'kr:newline', offset: 113, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl11}
+  - {type: line-break, offset: 113, content: '', id: KR3l0062_SBCK_005-1a11}
+  - {type: 'kr:newline', offset: 127, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl12}
+  - {type: page-break, offset: 127, content: '', id: KR3l0062_SBCK_005-1b}
+  - {type: 'kr:newline', offset: 127, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl13}
+  - {type: line-break, offset: 127, content: '', id: KR3l0062_SBCK_005-1b01}
+  - {type: 'kr:newline', offset: 137, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl14}
+  - {type: line-break, offset: 137, content: '', id: KR3l0062_SBCK_005-1b02}
+  - {type: variant, offset: 137, length: 1, content: 十, WYG: 本傳字簡之王荆公集中有寄郎簡之詩甚稱其賢少焉司馬季思來其去復問明清云温公兄弟何以不連名明清答以温公之父天章公生於秋浦故名池從子校理公生于鄉中名里天章長子以三月}
+  - {type: variant, offset: 139, length: 0, content: '', WYG: 日生名旦後守宛陵生仲子名宣晚守浮光生温公名光承平時光州學中有温公祠堂存焉敦立大喜曰皆是也且顧坐客云卒然而酬博聞如此可謂俊人矣烏乎敦立今墓木將栱言之於邑郭熙畫山水名盛}
+  - {type: page-break, offset: 139, content: '', id: KR3l0062_WYG_004-10b, image: WYG1038/WYG1038-0394d.png}
+  - {type: variant, offset: 141, length: 2, content: 降誕, WYG: 時嘗為翰林院待詔熙寜初其子思登進士第至龍圖閣直學士更帥三路既貴廣以金帛收贖熈}
+  - {type: variant, offset: 144, length: 1, content: 因, WYG: 遺筆以藏於家繇是熙之畫人間絶少思亦多材藝有笑談可用集行于世元祐中呂微仲當軸其兄大忠自陜漕入朝微仲虛正寢以待之大忠辭以相第非便微仲云界以中􅋼即私家也卒從微仲之請時安厚卿亦在政府父日華尚康寜且具慶焉厚卿夫婦偃然居東序時人以此别二公之賢否姚寛令威明清先友也著西溪殘語考古今事最為詳備其間一條云舊於㑹稽得一石碑論海潮依附隂陽時刻極有理不知其誰氏復恐遺失故載之觀古今諸家海潮之説多矣或謂天河激湧葛洪潮説亦云地機翕張見洞真正一經盧肇以日激水而潮生封演云月周天而潮應挺空入漢山湧而濤隨施師謂僧𨼆之之言析木大梁月行而水大見竇叔蒙濤志源殊派異無所適從索𨼆探微宜伸確論大中祥符九年冬奉詔按察嶺外嘗經合浦郡亷州㳂南溟而東過海康雷州歴陵水化州涉恩平恩州住南海廣州迨由龍川恵州抵潮陽潮州洎出守㑹稽越州移蒞句章明州是以上諸郡皆㳂海濵朝夕觀望潮汐之候者有日矣汐音夕潮退也得以求之刻漏究之消息消息進退十年用心頗有準的大率元氣嘘吸天隨氣而漲斂溟渤往來潮順天而進退者也以日者重陽之母隂生於陽故潮附之於日也月者太隂之精水者隂故潮依之於月也是故隨日而應月依隂而附陽盈於朔望消於朏敷尾切魄於上下弦息於輝朒女六切朔而日見東方故潮有大小焉今起月朔夜半子時潮平於地之子位四刻一十六分半月離於日在地之辰次日移三刻七}
+  - {type: page-break, offset: 144, content: '', id: KR3l0062_WYG_004-11a, image: WYG1038/WYG1038-0395a.png}
+  - {type: page-break, offset: 144, content: '', id: KR3l0062_WYG_004-11b, image: WYG1038/WYG1038-0395b.png}
+  - {type: page-break, offset: 144, content: '', id: KR3l0062_WYG_004-12a, image: WYG1038/WYG1038-0395c.png}
+  - {type: page-break, offset: 144, content: '', id: KR3l0062_WYG_004-12b, image: WYG1038/WYG1038-0395d.png}
+  - {type: 'kr:newline', offset: 145, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl15}
+  - {type: line-break, offset: 145, content: '', id: KR3l0062_SBCK_005-1b03}
+  - {type: variant, offset: 147, length: 16, content: 神宗聖學非人所及十三神宗置封椿庫, WYG: 分對月到之位}
+  - {type: 'kr:newline', offset: 155, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl16}
+  - {type: line-break, offset: 155, content: '', id: KR3l0062_SBCK_005-1b04}
+  - {type: variant, offset: 164, length: 5, content: 爲開拓境土, WYG: 日臨}
+  - {type: variant, offset: 170, length: 2, content: 資十, WYG: 次潮必應之過月望復東行潮附日而又西應之至後朔子時}
+  - {type: 'kr:newline', offset: 171, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl17}
+  - {type: line-break, offset: 171, content: '', id: KR3l0062_SBCK_005-1b05}
+  - {type: variant, offset: 173, length: 23, content: 神宗詔史院賜筵史官就席賦詩十五録紹聖謗語與史院, WYG: 刻一}
+  - {type: 'kr:newline', offset: 186, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl18}
+  - {type: line-break, offset: 186, content: '', id: KR3l0062_SBCK_005-1b06}
+  - {type: 'kr:newline', offset: 196, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl19}
+  - {type: line-break, offset: 196, content: '', id: KR3l0062_SBCK_005-1b07}
+  - {type: variant, offset: 198, length: 4, content: 曽布等議, WYG: 分半日月潮水亦俱}
+  - {type: variant, offset: 203, length: 3, content: 瑶華本, WYG: 㑹於子位於星知潮當附日而右旋以月臨子午潮必平矣月在卯酉汐必盡矣或遲速消息又小異而進退盈虛終不失於時期矣或問曰四海潮平來皆有漸唯浙江濤至則亘如山岳奮如雷霆水岸横飛雪崖傍射澍騰奔激吁可畏也其可怒之理可得聞乎曰或云夾岸有山南曰龕北曰赭二山相對謂之海門岸狹勢逼湧而為濤耳若言狹逼則東溟自定海縣名屬四明郡吞餘姚奉化二江江以縣為名一屬會稽一𨽻四明侔之浙江尤甚狹逼潮來不聞濤有聲耳今觀浙江之口起自纂風亭地名屬㑹稽北望嘉興大山屬秀州水闊二百餘里故海商舶船怖於上潬水中沙為潬徒旱切惟泛餘姚小江易舟而浮運河逹于杭越矣蓋以下有沙潬南北亘乏隔礙洪波蹙遏潮勢夫月離震兌他潮已生惟浙江水未洎月徑潮㢲潮來已半濁浪推滯後水益來於是溢於沙潬猛怒頓湧聲勢激射故起而為濤耳非江山淺逼使之然也宜哉令威以該洽聞于時恨不能知其人明清心謂必機博之人後以真宗實録考之大中祥符九年以燕肅為廣東提㸃刑獄遂取兩朝史燕公𫝊觀之果嘗自知越州移明州卷}
+  - {type: page-break, offset: 203, content: '', id: KR3l0062_WYG_004-13a, image: WYG1038/WYG1038-0396a.png}
+  - {type: page-break, offset: 203, content: '', id: KR3l0062_WYG_004-13b, image: WYG1038/WYG1038-0396b.png}
+  - {type: 'kr:newline', offset: 207, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl20}
+  - {type: line-break, offset: 207, content: '', id: KR3l0062_SBCK_005-1b08}
+  - {type: variant, offset: 207, length: 9, content: 十七曽布奏事上深憚, WYG: 又云嘗著海潮論海潮圖竝行于世則知為燕無疑明清乾道丙戌冬奉親㑹稽居多暇日有親朋來過相與晤言可紀者歸考其實而筆録之曰揮麈録不忍棄去遂名之曰揮麈録非所以為書也長至日明清識右揮麈録一編汝隂王仲言所作也紹興辛丑迥侍叔父尉剡叔父出仲言昆仲詩詫曰此皆小汝若干嵗雪溪先生諸子也迥􅃼然自失其後得與仲信仲言游雖}
+  - {type: page-break, offset: 207, content: '', id: KR3l0062_WYG_004-14a, image: WYG1038/WYG1038-0396c.png}
+  - {type: 'kr:newline', offset: 217, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl21}
+  - {type: line-break, offset: 217, content: '', id: KR3l0062_SBCK_005-1b09}
+  - {type: variant, offset: 217, length: 5, content: 十八徽宗好, WYG: 其該洽當時未知}
+  - {type: variant, offset: 223, length: 12, content: 潜心詞藝十九徽宗𥘉郊事迹, WYG: 問之有味也越}
+  - {type: page-break, offset: 223, content: '', id: KR3l0062_WYG_004-14b, image: WYG1038/WYG1038-0396d.png}
+  - {type: 'kr:newline', offset: 227, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl22}
+  - {type: line-break, offset: 227, content: '', id: KR3l0062_SBCK_005-1b10}
+  - {type: variant, offset: 231, length: 1, content: 𥘉, SBCK: 􅀄}
+  - {type: 'kr:newline', offset: 235, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl23}
+  - {type: line-break, offset: 235, content: '', id: KR3l0062_SBCK_005-1b11}
+  - {type: variant, offset: 237, length: 0, content: '', WYG: 年迥塵忝末科試吏于淮壖得奉行政事之在民者因讀荀卿子書曰法不貳後王又讀宣王詩曰周道粲然復興於是思熟於本朝典故者以講論學問士夫間訪之未獲也忽仲言出示此書乃平昔之所期不謂近出於朋舊之中喜可知也雖然僕有疑焉仲言富於春秋宜以壯烈上佐時用何遽畱心於著述若僕輩衰老不適用乃可娱意於簡冊之間耳仲言其懋哉乾道己丑八月左文林郎饒州徳興縣丞沙隨}
+  - {type: page-break, offset: 237, content: '', id: KR3l0062_WYG_004-15a, image: WYG1038/WYG1038-0397a.png}
+  - {type: variant, offset: 238, length: 1, content: 若, SBCK: 􅀂}
+  - {type: variant, offset: 238, length: 2, content: 若英, WYG: 迥可久跋九悳素聞仲言多識前言往行真好古博雅君子願從下風聽餘論聞所未聞為有日矣今幸同僚于此謂可破此願也而郡邑相距餘一舎仲言入郭有時不得朝夕見斯心竟未能滿間從清流王孟玉借揮麈録觀之殆所謂窺豹一班者因手抄之古人有云不見異人當得異書今也見其人得其書何喜如焉因誌于後傾困倒廩尚冀自此無靳也廸功郎高郵軍教授臨汝郭九悳書李賢良簡垕拜手昨日辱下顧殊恨不款經夕伏惟台候客况萬福宣政從臣出處極為詳備受賜甚多揮麈録昨晩與老人伏讀共歎該洽如垕輩可知愧矣鄭公之説甚善切幸小畱以容乞靈龍山俯就食其禄可也一二同舍郎與兄厚善皆以為喜老人亦約同白廟堂且喻意京兆來早幸過此共飯已約叔度款宏論不宣垕}
+  - {type: page-break, offset: 238, content: '', id: KR3l0062_WYG_004-15b, image: WYG1038/WYG1038-0397b.png}
+  - {type: page-break, offset: 238, content: '', id: KR3l0062_WYG_004-16a, image: WYG1038/WYG1038-0397c.png}
+  - {type: variant, offset: 241, length: 0, content: '', WYG: 覆仲}
+  - {type: variant, offset: 242, length: 2, content: 皆驗, WYG: 簽判學士契兄王知府自跋丘明子長班范陳夀之書不經它手故議論歸一自唐太宗修晉書置局設官雖房𤣥齡褚遂良受詔而許敬宗李義府之徒厠迹其間文字交錯約史自此失矣劉煦之唐書㠔居正之五代史號為}
+  - {type: 'kr:newline', offset: 244, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl24}
+  - {type: page-break, offset: 244, content: '', id: KR3l0062_SBCK_005-2a}
+  - {type: 'kr:newline', offset: 244, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl25}
+  - {type: line-break, offset: 244, content: '', id: KR3l0062_SBCK_005-2a01}
+  - {type: variant, offset: 245, length: 47, content: 乙鄧洵武乞正選人官稱二二政和中廢毒藥庫幷罷貢額二三靖康中鄧善詢隨車駕次雍丘召縣令計事二四編類元, WYG: 氏而職長監修未始措辭嘉}
+  - {type: 'kr:newline', offset: 255, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl26}
+  - {type: line-break, offset: 255, content: '', id: KR3l0062_SBCK_005-2a02}
+  - {type: 'kr:newline', offset: 268, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl27}
+  - {type: line-break, offset: 268, content: '', id: KR3l0062_SBCK_005-2a03}
+  - {type: 'kr:newline', offset: 287, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl28}
+  - {type: line-break, offset: 287, content: '', id: KR3l0062_SBCK_005-2a04}
+  - {type: variant, offset: 290, length: 1, content: 類, SBCK: 􅀋}
+  - {type: variant, offset: 293, length: 18, content: 黨人立碑刋石二五宰相樞宻分合因革二六, WYG: 重命大儒再新唐}
+  - {type: 'kr:newline', offset: 299, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl29}
+  - {type: line-break, offset: 299, content: '', id: KR3l0062_SBCK_005-2a05}
+  - {type: 'kr:newline', offset: 309, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl30}
+  - {type: line-break, offset: 309, content: '', id: KR3l0062_SBCK_005-2a06}
+  - {type: variant, offset: 312, length: 117, content: 官記事所因者有四二七自秦相擅政紀録不足傳信二八太祖誓不殺大臣言官二九治平宰執進草熟狀卷之二三十徽宗幸髙宗幄次見金龍蜿蜒榻上三乙髙宗閲奏求其生路三二髙宗興王符瑞三三徽宗御製良嶽記命李質曹組爲古賦并百詠詩及詔王安中賦詩三四近日官制紊亂三五, WYG: ''}
+  - {type: 'kr:newline', offset: 320, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl31}
+  - {type: line-break, offset: 320, content: '', id: KR3l0062_SBCK_005-2a07}
+  - {type: 'kr:newline', offset: 333, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl32}
+  - {type: line-break, offset: 333, content: '', id: KR3l0062_SBCK_005-2a08}
+  - {type: 'kr:newline', offset: 344, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl33}
+  - {type: line-break, offset: 344, content: '', id: KR3l0062_SBCK_005-2a09}
+  body:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR3l0062_SBCK_005-2a10}
+  - {type: indent, offset: 0, content: 　, id: KR3l0062_krp_005-bkkind1}
+  - {type: 'kr:newline', offset: 3, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl2}
+  - {type: line-break, offset: 3, content: '', id: KR3l0062_SBCK_005-2a11}
+  - {type: 'kr:newline', offset: 19, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl3}
+  - {type: page-break, offset: 19, content: '', id: KR3l0062_SBCK_005-2b}
+  - {type: 'kr:newline', offset: 19, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl4}
+  - {type: line-break, offset: 19, content: '', id: KR3l0062_SBCK_005-2b01}
+  - {type: 'kr:newline', offset: 29, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl5}
+  - {type: line-break, offset: 29, content: '', id: KR3l0062_SBCK_005-2b02}
+  - {type: 'kr:newline', offset: 37, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl6}
+  - {type: line-break, offset: 37, content: '', id: KR3l0062_SBCK_005-2b03}
+  - {type: 'kr:newline', offset: 57, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl7}
+  - {type: line-break, offset: 57, content: '', id: KR3l0062_SBCK_005-2b04}
+  - {type: indent, offset: 57, content: 　　　, id: KR3l0062_krp_005-bkkind2}
+  - {type: 'kr:newline', offset: 65, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl8}
+  - {type: line-break, offset: 65, content: '', id: KR3l0062_SBCK_005-2b05}
+  - {type: 'kr:newline', offset: 73, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl9}
+  - {type: line-break, offset: 73, content: '', id: KR3l0062_SBCK_005-2b06}
+  - {type: variant, offset: 79, length: 4, content: 與劉邍父, WYG: 宋景文各析紀𫝊故直筆糾繆之}
+  - {type: page-break, offset: 83, content: '', id: KR3l0062_WYG_004-16b, image: WYG1038/WYG1038-0397d.png}
+  - {type: variant, offset: 84, length: 6, content: 問荅入閤儀詞, WYG: 出國朝}
+  - {type: 'kr:newline', offset: 90, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl10}
+  - {type: line-break, offset: 90, content: '', id: KR3l0062_SBCK_005-2b07}
+  - {type: variant, offset: 91, length: 5, content: 六吳縝著唐, WYG: 朝}
+  - {type: variant, offset: 97, length: 7, content: 紏繆五代史纂誤, WYG: 為大典}
+  - {type: variant, offset: 105, length: 7, content: 因三七皇玉寳運, WYG: 冠而進呈於天聖垂簾之際名臣大節無所叙}
+  - {type: 'kr:newline', offset: 106, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl11}
+  - {type: line-break, offset: 106, content: '', id: KR3l0062_SBCK_005-2b08}
+  - {type: variant, offset: 113, length: 5, content: 載黃巢王氣, WYG: 居多或有}
+  - {type: variant, offset: 120, length: 6, content: 歐陽文忠未曾, WYG: ''}
+  - {type: 'kr:newline', offset: 127, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl12}
+  - {type: line-break, offset: 127, content: '', id: KR3l0062_SBCK_005-2b09}
+  - {type: variant, offset: 127, length: 4, content: 三八京官, WYG: 之數𫝊褒貶異同自建隆抵于元符信史屢更先人於是七國}
+  - {type: variant, offset: 132, length: 80, content: 叅差回綱舡乗歸三九人不堪命皆去爲盗四十宰相奏𥙷于第止授九品京官自吕文穆始四乙通判運判所舉人數㳂革四二磨勘進秩自孫何耿望建言始四三富文忠封還詞頭盧襄賛執奏不行四四, WYG: 史述焉直欲追倣遷固鋪}
+  - {type: 'kr:newline', offset: 139, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl13}
+  - {type: line-break, offset: 139, content: '', id: KR3l0062_SBCK_005-2b10}
+  - {type: 'kr:newline', offset: 149, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl14}
+  - {type: line-break, offset: 149, content: '', id: KR3l0062_SBCK_005-2b11}
+  - {type: variant, offset: 154, length: 1, content: 𥙷, SBCK: 􅀘}
+  - {type: 'kr:newline', offset: 168, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl15}
+  - {type: page-break, offset: 168, content: '', id: KR3l0062_SBCK_005-3a}
+  - {type: 'kr:newline', offset: 168, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl16}
+  - {type: line-break, offset: 168, content: '', id: KR3l0062_SBCK_005-3a01}
+  - {type: 'kr:newline', offset: 180, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl17}
+  - {type: line-break, offset: 180, content: '', id: KR3l0062_SBCK_005-3a02}
+  - {type: 'kr:newline', offset: 194, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl18}
+  - {type: line-break, offset: 194, content: '', id: KR3l0062_SBCK_005-3a03}
+  - {type: 'kr:newline', offset: 210, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl19}
+  - {type: line-break, offset: 210, content: '', id: KR3l0062_SBCK_005-3a04}
+  - {type: variant, offset: 213, length: 4, content: 唐英述仁, WYG: 揚厲為無窮之觀雖前日}
+  - {type: indent, offset: 216, content: 　, id: KR3l0062_krp_005-bkkind3}
+  - {type: variant, offset: 218, length: 29, content: 政要與嘉祐名臣傳四五韓魏公章子厚爲山陵使四六韓魏公出判相州, WYG: 工筆削}
+  - {type: 'kr:newline', offset: 226, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl20}
+  - {type: line-break, offset: 226, content: '', id: KR3l0062_SBCK_005-3a05}
+  - {type: 'kr:newline', offset: 238, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl21}
+  - {type: line-break, offset: 238, content: '', id: KR3l0062_SBCK_005-3a06}
+  - {type: variant, offset: 249, length: 30, content: 預聞國命吕吉父出守延安乞與樞宻同奏事四七丞相呉冲卿忌郭逵成功, WYG: 更易但益以遺落損}
+  - {type: 'kr:newline', offset: 258, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl22}
+  - {type: line-break, offset: 258, content: '', id: KR3l0062_SBCK_005-3a07}
+  - {type: indent, offset: 258, content: 　　　, id: KR3l0062_krp_005-bkkind4}
+  - {type: 'kr:newline', offset: 267, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl23}
+  - {type: line-break, offset: 267, content: '', id: KR3l0062_SBCK_005-3a08}
+  - {type: variant, offset: 280, length: 89, content: 孫呉侔以左道伏誅四八新法之行施於天下獨永康無和買四九邢和叔用章子厚語以荅虜使五十吕氏爲侍郎者三人俱有子孫爲相五乙邵尭夫譏冨鄭公肉食者鄙五二緫管之緫字但從手不從絲五三李濤李擇常本出, WYG: 重複如}
+  - {type: 'kr:newline', offset: 288, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl24}
+  - {type: line-break, offset: 288, content: '', id: KR3l0062_SBCK_005-3a09}
+  - {type: 'kr:newline', offset: 304, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl25}
+  - {type: line-break, offset: 304, content: '', id: KR3l0062_SBCK_005-3a10}
+  - {type: 'kr:newline', offset: 318, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl26}
+  - {type: line-break, offset: 318, content: '', id: KR3l0062_SBCK_005-3a11}
+  - {type: 'kr:newline', offset: 334, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl27}
+  - {type: page-break, offset: 334, content: '', id: KR3l0062_SBCK_005-3b}
+  - {type: 'kr:newline', offset: 334, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl28}
+  - {type: line-break, offset: 334, content: '', id: KR3l0062_SBCK_005-3b01}
+  - {type: variant, offset: 343, length: 1, content: 肉, SBCK: 􅁏}
+  - {type: 'kr:newline', offset: 347, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl29}
+  - {type: line-break, offset: 347, content: '', id: KR3l0062_SBCK_005-3b02}
+  - {type: 'kr:newline', offset: 360, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl30}
+  - {type: line-break, offset: 360, content: '', id: KR3l0062_SBCK_005-3b03}
+  - {type: variant, offset: 370, length: 395, content: 族五四陳崇儀廟食事因五五唐宰相以宗室進者十三人如何史賛乃云七人卷之三五六熈寧以來宰相封國公五七蔡无道作官制舊典事有抵牾五八方軫論列蔡京章䟽五九強淵明上景鍾頌六十王宷爲林靈素中傷與劉炳俱見誅六一劉康孫啓崔貴妃奪王景彛故弟果報六二蔡元長不啓印匣用印印復在匣六三張柔直勸蔡元長收拾人材以救喪亂六四解習除知河中府以箝口喪軀六五蘭亭石刻旣存而復失六六張逹明報唐欽叟令衘命誅童貫六七馮檝雷觀同爲學官相排六八賀子忱李邈詐疾退避六九粘罕欲根刷玉牒名字頼秦中丞得免七十鄭居中與蔡京交悪七一追贈范忠宣誤作文正七二温禹弼與曾文肅相失七三蘇東坡作陳公弼傳卷之四七四徽宗燕賞元霄命王安中馮熈載進詩七五陳堯臣進退終始事迹七六靖康中黃時偁徐揆段光逺三人上虜酋書七占張邦昌僣僞事迹七八夏人沮粘罕之氣卷之五七九論熈寧以來謚法八十材人所畏者尉曹八十一江氏令樊若水獻下江南之䇿宋咸鄭毅夫記其事甚詳八十二蜀孟昶上周丗宗書八十三國朝, WYG: 姓}
+  - {type: 'kr:newline', offset: 371, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl31}
+  - {type: line-break, offset: 371, content: '', id: KR3l0062_SBCK_005-3b04}
+  - {type: 'kr:newline', offset: 380, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl32}
+  - {type: line-break, offset: 380, content: '', id: KR3l0062_SBCK_005-3b05}
+  - {type: 'kr:newline', offset: 401, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl33}
+  - {type: line-break, offset: 401, content: '', id: KR3l0062_SBCK_005-3b06}
+  - {type: 'kr:newline', offset: 404, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl34}
+  - {type: line-break, offset: 404, content: '', id: KR3l0062_SBCK_005-3b07}
+  - {type: 'kr:newline', offset: 415, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl35}
+  - {type: line-break, offset: 415, content: '', id: KR3l0062_SBCK_005-3b08}
+  - {type: 'kr:newline', offset: 429, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl36}
+  - {type: line-break, offset: 429, content: '', id: KR3l0062_SBCK_005-3b09}
+  - {type: 'kr:newline', offset: 439, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl37}
+  - {type: line-break, offset: 439, content: '', id: KR3l0062_SBCK_005-3b10}
+  - {type: 'kr:newline', offset: 448, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl38}
+  - {type: line-break, offset: 448, content: '', id: KR3l0062_SBCK_005-3b11}
+  - {type: 'kr:newline', offset: 464, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl39}
+  - {type: page-break, offset: 464, content: '', id: KR3l0062_SBCK_005-4a}
+  - {type: 'kr:newline', offset: 464, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl40}
+  - {type: line-break, offset: 464, content: '', id: KR3l0062_SBCK_005-4a01}
+  - {type: 'kr:newline', offset: 481, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl41}
+  - {type: line-break, offset: 481, content: '', id: KR3l0062_SBCK_005-4a02}
+  - {type: 'kr:newline', offset: 496, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl42}
+  - {type: line-break, offset: 496, content: '', id: KR3l0062_SBCK_005-4a03}
+  - {type: variant, offset: 501, length: 1, content: 勸, SBCK: 􅂆}
+  - {type: 'kr:newline', offset: 513, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl43}
+  - {type: line-break, offset: 513, content: '', id: KR3l0062_SBCK_005-4a04}
+  - {type: 'kr:newline', offset: 527, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl44}
+  - {type: line-break, offset: 527, content: '', id: KR3l0062_SBCK_005-4a05}
+  - {type: 'kr:newline', offset: 538, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl45}
+  - {type: line-break, offset: 538, content: '', id: KR3l0062_SBCK_005-4a06}
+  - {type: 'kr:newline', offset: 553, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl46}
+  - {type: line-break, offset: 553, content: '', id: KR3l0062_SBCK_005-4a07}
+  - {type: variant, offset: 558, length: 1, content: 觀, SBCK: 􅀚}
+  - {type: 'kr:newline', offset: 565, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl47}
+  - {type: line-break, offset: 565, content: '', id: KR3l0062_SBCK_005-4a08}
+  - {type: variant, offset: 571, length: 1, content: 邈, SBCK: 􅊬}
+  - {type: 'kr:newline', offset: 576, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl48}
+  - {type: line-break, offset: 576, content: '', id: KR3l0062_SBCK_005-4a09}
+  - {type: 'kr:newline', offset: 593, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl49}
+  - {type: line-break, offset: 593, content: '', id: KR3l0062_SBCK_005-4a10}
+  - {type: variant, offset: 602, length: 1, content: 悪, SBCK: 􅁖}
+  - {type: 'kr:newline', offset: 603, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl50}
+  - {type: line-break, offset: 603, content: '', id: KR3l0062_SBCK_005-4a11}
+  - {type: 'kr:newline', offset: 614, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl51}
+  - {type: page-break, offset: 614, content: '', id: KR3l0062_SBCK_005-4b}
+  - {type: 'kr:newline', offset: 614, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl52}
+  - {type: line-break, offset: 614, content: '', id: KR3l0062_SBCK_005-4b01}
+  - {type: 'kr:newline', offset: 625, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl53}
+  - {type: line-break, offset: 625, content: '', id: KR3l0062_SBCK_005-4b02}
+  - {type: variant, offset: 627, length: 1, content: 蘇, SBCK: 􅂫}
+  - {type: 'kr:newline', offset: 635, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl54}
+  - {type: line-break, offset: 635, content: '', id: KR3l0062_SBCK_005-4b03}
+  - {type: 'kr:newline', offset: 638, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl55}
+  - {type: line-break, offset: 638, content: '', id: KR3l0062_SBCK_005-4b04}
+  - {type: 'kr:newline', offset: 655, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl56}
+  - {type: line-break, offset: 655, content: '', id: KR3l0062_SBCK_005-4b05}
+  - {type: 'kr:newline', offset: 666, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl57}
+  - {type: line-break, offset: 666, content: '', id: KR3l0062_SBCK_005-4b06}
+  - {type: 'kr:newline', offset: 685, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl58}
+  - {type: line-break, offset: 685, content: '', id: KR3l0062_SBCK_005-4b07}
+  - {type: variant, offset: 688, length: 1, content: 邦, SBCK: 􅀖}
+  - {type: 'kr:newline', offset: 694, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl59}
+  - {type: line-break, offset: 694, content: '', id: KR3l0062_SBCK_005-4b08}
+  - {type: 'kr:newline', offset: 703, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl60}
+  - {type: line-break, offset: 703, content: '', id: KR3l0062_SBCK_005-4b09}
+  - {type: 'kr:newline', offset: 706, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl61}
+  - {type: line-break, offset: 706, content: '', id: KR3l0062_SBCK_005-4b10}
+  - {type: 'kr:newline', offset: 715, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl62}
+  - {type: line-break, offset: 715, content: '', id: KR3l0062_SBCK_005-4b11}
+  - {type: 'kr:newline', offset: 724, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl63}
+  - {type: page-break, offset: 724, content: '', id: KR3l0062_SBCK_005-5a}
+  - {type: 'kr:newline', offset: 724, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl64}
+  - {type: line-break, offset: 724, content: '', id: KR3l0062_SBCK_005-5a01}
+  - {type: variant, offset: 731, length: 1, content: 若, SBCK: 􅀂}
+  - {type: 'kr:newline', offset: 745, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl65}
+  - {type: line-break, offset: 745, content: '', id: KR3l0062_SBCK_005-5a02}
+  - {type: indent, offset: 745, content: 　　　, id: KR3l0062_krp_005-bkkind5}
+  - {type: 'kr:newline', offset: 749, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl66}
+  - {type: line-break, offset: 749, content: '', id: KR3l0062_SBCK_005-5a03}
+  - {type: 'kr:newline', offset: 760, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl67}
+  - {type: line-break, offset: 760, content: '', id: KR3l0062_SBCK_005-5a04}
+  - {type: variant, offset: 769, length: 5, content: 叔姪聮名顯, WYG: 附于本𫝊之次增以宗室宰執世系與夫陟黜嵗月三表如唐書之制紹興戊午中執法常公聞其事詔奉祠中視史官之秩尚方給扎奏御及半而一秦專柄不盡以所}
+  - {type: page-break, offset: 769, content: '', id: KR3l0062_WYG_004-17a, image: WYG1038/WYG1038-0398a.png}
+  - {type: 'kr:newline', offset: 775, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl68}
+  - {type: line-break, offset: 775, content: '', id: KR3l0062_SBCK_005-5a05}
+  - {type: variant, offset: 775, length: 5, content: 八十四黄巢, WYG: 逹于乙覧獨存副本私室先人棄世野史之禁興告訐之風熾薦紳重足而立}
+  - {type: variant, offset: 781, length: 25, content: 馬兒李順皆能逃命於一時八十五蔡伯俙以神童授官食禄七, WYG: 清兄弟居蓬衣白亡所掩匿手澤不復敢畱悉化為煙霧又}
+  - {type: 'kr:newline', offset: 792, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl69}
+  - {type: line-break, offset: 792, content: '', id: KR3l0062_SBCK_005-5a06}
+  - {type: 'kr:newline', offset: 809, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl70}
+  - {type: line-break, offset: 809, content: '', id: KR3l0062_SBCK_005-5a07}
+  - {type: variant, offset: 809, length: 2, content: 八十, WYG: 巨援没而公道開再命㑹稽官以物辦訪遺書于家但記憶殘缺以補冊府之闕而已故舊文居多此舉葢自先祖早授學於}
+  - {type: variant, offset: 812, length: 20, content: 張耆燕禁從諸公八十七韓忠獻四子奏名禮部卷, WYG: 一翁}
+  - {type: variant, offset: 813, length: 1, content: 耆, SBCK: 􅂄}
+  - {type: 'kr:newline', offset: 819, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl71}
+  - {type: line-break, offset: 819, content: '', id: KR3l0062_SBCK_005-5a08}
+  - {type: 'kr:newline', offset: 831, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl72}
+  - {type: line-break, offset: 831, content: '', id: KR3l0062_SBCK_005-5a09}
+  - {type: indent, offset: 831, content: 　, id: KR3l0062_krp_005-bkkind6}
+  - {type: variant, offset: 833, length: 0, content: '', WYG: 門命意本于}
+  - {type: 'kr:newline', offset: 834, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl73}
+  - {type: line-break, offset: 834, content: '', id: KR3l0062_SBCK_005-5a10}
+  - {type: variant, offset: 834, length: 13, content: 八十八韓持國入仕首末八十九, WYG: 一其後先人承之故先人遷官制云汝好古博雅自其先世屬詞比事度越軰流痛哉斯文雖不傳于後代而}
+  - {type: page-break, offset: 834, content: '', id: KR3l0062_WYG_004-17b, image: WYG1038/WYG1038-0398b.png}
+  - {type: 'kr:newline', offset: 844, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl74}
+  - {type: line-break, offset: 844, content: '', id: KR3l0062_SBCK_005-5a11}
+  - {type: variant, offset: 848, length: 29, content: 平爲司理不阿旨以殺無辜九十李邯鄲命諸子名九十一司馬温公人望, WYG: 言可訓于萬世也明清弱齡過庭前言往行探尋舊事鼂夕剽聆多歴年}
+  - {type: 'kr:newline', offset: 859, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl75}
+  - {type: page-break, offset: 859, content: '', id: KR3l0062_SBCK_005-5b}
+  - {type: 'kr:newline', offset: 859, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl76}
+  - {type: line-break, offset: 859, content: '', id: KR3l0062_SBCK_005-5b01}
+  - {type: 'kr:newline', offset: 868, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl77}
+  - {type: line-break, offset: 868, content: '', id: KR3l0062_SBCK_005-5b02}
+  - {type: variant, offset: 878, length: 6, content: 歸九十二温公, WYG: 憂若摧挫萬事瓦解}
+  - {type: 'kr:newline', offset: 879, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl78}
+  - {type: line-break, offset: 879, content: '', id: KR3l0062_SBCK_005-5b03}
+  - {type: variant, offset: 886, length: 18, content: 矜伐九十三王荆公死兆九十四晏元獻元厚, WYG: 意全莫能髠鈐以續先志乾道}
+  - {type: 'kr:newline', offset: 888, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl79}
+  - {type: line-break, offset: 888, content: '', id: KR3l0062_SBCK_005-5b04}
+  - {type: 'kr:newline', offset: 896, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl80}
+  - {type: line-break, offset: 896, content: '', id: KR3l0062_SBCK_005-5b05}
+  - {type: variant, offset: 905, length: 1, content: 怒, WYG: 初竊叢祠之禄偏奉山隂親朋相過抵掌劇談偶及昔聞間有可記隨即考而筆之曰揮麈録故}
+  - {type: variant, offset: 907, length: 52, content: 犯父諱九十五時君卿稱王荆公於上前九十六蔡持正之父黃裳戒其子必報陳氏九十七王和艾德政如神九十八汪輔之就試自, WYG: 程逈可久}
+  - {type: 'kr:newline', offset: 910, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl81}
+  - {type: line-break, offset: 910, content: '', id: KR3l0062_SBCK_005-5b06}
+  - {type: 'kr:newline', offset: 923, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl82}
+  - {type: line-break, offset: 923, content: '', id: KR3l0062_SBCK_005-5b07}
+  - {type: 'kr:newline', offset: 940, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl83}
+  - {type: line-break, offset: 940, content: '', id: KR3l0062_SBCK_005-5b08}
+  - {type: 'kr:newline', offset: 950, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl84}
+  - {type: line-break, offset: 950, content: '', id: KR3l0062_SBCK_005-5b09}
+  - {type: variant, offset: 960, length: 54, content: 登第九十九滕元發因舎弟申與楊元素失眷一百蘇東坡改王兵部滕元發行狀爲墓銘百一曽氏一門六人同牓及第百二馮京作主文, WYG: 名士也覽而大喜手録而識于後繇是流𫝊又嘗}
+  - {type: 'kr:newline', offset: 962, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl85}
+  - {type: line-break, offset: 962, content: '', id: KR3l0062_SBCK_005-5b10}
+  - {type: 'kr:newline', offset: 978, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl86}
+  - {type: line-break, offset: 978, content: '', id: KR3l0062_SBCK_005-5b11}
+  - {type: variant, offset: 980, length: 1, content: 蘇, SBCK: 􅂫}
+  - {type: 'kr:newline', offset: 995, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl87}
+  - {type: page-break, offset: 995, content: '', id: KR3l0062_SBCK_005-6a}
+  - {type: 'kr:newline', offset: 995, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl88}
+  - {type: line-break, offset: 995, content: '', id: KR3l0062_SBCK_005-6a01}
+  - {type: 'kr:newline', offset: 1007, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl89}
+  - {type: line-break, offset: 1007, content: '', id: KR3l0062_SBCK_005-6a02}
+  - {type: variant, offset: 1015, length: 85, content: 張芸叟置優等百三曾文肅薦王兵部居言路不就百四曾文肅爲相首末百五中使宣押蔡卞爲右丞百六夏人冦慶州老卒保其無他百七趙正夫與黃魯直戯劇衘怨切骨百八林仲平二子立名百九蘇東坡不肯冩, WYG: ''}
+  - {type: 'kr:newline', offset: 1021, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl90}
+  - {type: line-break, offset: 1021, content: '', id: KR3l0062_SBCK_005-6a03}
+  - {type: 'kr:newline', offset: 1035, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl91}
+  - {type: line-break, offset: 1035, content: '', id: KR3l0062_SBCK_005-6a04}
+  - {type: 'kr:newline', offset: 1044, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl92}
+  - {type: line-break, offset: 1044, content: '', id: KR3l0062_SBCK_005-6a05}
+  - {type: 'kr:newline', offset: 1055, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl93}
+  - {type: line-break, offset: 1055, content: '', id: KR3l0062_SBCK_005-6a06}
+  - {type: 'kr:newline', offset: 1068, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl94}
+  - {type: line-break, offset: 1068, content: '', id: KR3l0062_SBCK_005-6a07}
+  - {type: 'kr:newline', offset: 1083, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl95}
+  - {type: line-break, offset: 1083, content: '', id: KR3l0062_SBCK_005-6a08}
+  - {type: 'kr:newline', offset: 1092, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl96}
+  - {type: line-break, offset: 1092, content: '', id: KR3l0062_SBCK_005-6a09}
+  - {type: variant, offset: 1094, length: 1, content: 蘇, SBCK: 􅂫}
+  - {type: variant, offset: 1104, length: 2, content: 墓誌, WYG: 公}
+  - {type: 'kr:newline', offset: 1106, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl97}
+  - {type: line-break, offset: 1106, content: '', id: KR3l0062_SBCK_005-6a10}
+  - {type: variant, offset: 1107, length: 0, content: '', WYG: 官公卿表與夫陳龢叔及紹興拜罷録㕘考弼臣進退次第年月列為四圖表置之坐隅以便觀覽今鏤板于閩蜀江浙矣丁酉春覔官行都獲登太史李公仁甫之門命與其子仲信遊舂容間偶出二編公}
+  - {type: page-break, offset: 1107, content: '', id: KR3l0062_WYG_004-18a, image: WYG1038/WYG1038-0398c.png}
+  - {type: variant, offset: 1108, length: 13, content: 十歐陽觀行狀異同百十一余行, WYG: 見稱道再三且以宣政名卿出處下詢如黄寔章子厚}
+  - {type: 'kr:newline', offset: 1116, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl98}
+  - {type: line-break, offset: 1116, content: '', id: KR3l0062_SBCK_005-6a11}
+  - {type: variant, offset: 1122, length: 2, content: 結連, WYG: 甥不麗其舅而卒老于}
+  - {type: variant, offset: 1125, length: 172, content: 界罪狀百十二李端叔行狀文章百十三東坡杭州湖上㑹客百十四昭靈侯行狀首末百十五曾文肅王大卿結爲契家卷之七百十六國朝以來自執政徑登元台百十七本朝先正御書碑額與御書閣名百十八滕章敏訪荆公臨別贈言百十九東坡知舉時劉無言論效醉白堂記百二十晁以道跋魚枕冠頌百卄一曾文肅夫人招李子約母妻百卄二徐師川改陳虚中判語百卄三蔡元度與門下士觀畫壁百卄四揚康功使髙麗百卄五, WYG: ''}
+  - {type: 'kr:newline', offset: 1128, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl99}
+  - {type: page-break, offset: 1128, content: '', id: KR3l0062_SBCK_005-6b}
+  - {type: 'kr:newline', offset: 1128, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl100}
+  - {type: line-break, offset: 1128, content: '', id: KR3l0062_SBCK_005-6b01}
+  - {type: 'kr:newline', offset: 1138, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl101}
+  - {type: line-break, offset: 1138, content: '', id: KR3l0062_SBCK_005-6b02}
+  - {type: 'kr:newline', offset: 1149, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl102}
+  - {type: line-break, offset: 1149, content: '', id: KR3l0062_SBCK_005-6b03}
+  - {type: 'kr:newline', offset: 1159, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl103}
+  - {type: line-break, offset: 1159, content: '', id: KR3l0062_SBCK_005-6b04}
+  - {type: 'kr:newline', offset: 1172, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl104}
+  - {type: line-break, offset: 1172, content: '', id: KR3l0062_SBCK_005-6b05}
+  - {type: indent, offset: 1172, content: 　, id: KR3l0062_krp_005-bkkind7}
+  - {type: 'kr:newline', offset: 1175, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl105}
+  - {type: line-break, offset: 1175, content: '', id: KR3l0062_SBCK_005-6b06}
+  - {type: 'kr:newline', offset: 1189, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl106}
+  - {type: line-break, offset: 1189, content: '', id: KR3l0062_SBCK_005-6b07}
+  - {type: indent, offset: 1196, content: 　, id: KR3l0062_krp_005-bkkind8}
+  - {type: indent, offset: 1201, content: 　, id: KR3l0062_krp_005-bkkind9}
+  - {type: 'kr:newline', offset: 1205, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl107}
+  - {type: line-break, offset: 1205, content: '', id: KR3l0062_SBCK_005-6b08}
+  - {type: 'kr:newline', offset: 1218, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl108}
+  - {type: line-break, offset: 1218, content: '', id: KR3l0062_SBCK_005-6b09}
+  - {type: 'kr:newline', offset: 1235, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl109}
+  - {type: line-break, offset: 1235, content: '', id: KR3l0062_SBCK_005-6b10}
+  - {type: 'kr:newline', offset: 1246, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl110}
+  - {type: line-break, offset: 1246, content: '', id: KR3l0062_SBCK_005-6b11}
+  - {type: 'kr:newline', offset: 1260, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl111}
+  - {type: page-break, offset: 1260, content: '', id: KR3l0062_SBCK_005-7a}
+  - {type: 'kr:newline', offset: 1260, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl112}
+  - {type: line-break, offset: 1260, content: '', id: KR3l0062_SBCK_005-7a01}
+  - {type: 'kr:newline', offset: 1272, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl113}
+  - {type: line-break, offset: 1272, content: '', id: KR3l0062_SBCK_005-7a02}
+  - {type: variant, offset: 1283, length: 1, content: 畫, SBCK: 􅀞}
+  - {type: 'kr:newline', offset: 1285, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl114}
+  - {type: line-break, offset: 1285, content: '', id: KR3l0062_SBCK_005-7a03}
+  - {type: variant, offset: 1288, length: 1, content: 揚, SBCK: 􅀭}
+  - {type: 'kr:newline', offset: 1294, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl115}
+  - {type: line-break, offset: 1294, content: '', id: KR3l0062_SBCK_005-7a04}
+  - {type: variant, offset: 1298, length: 176, content: 逹源乞重脩汴河短垣奏䟽百卄六東坡舟次泗上百卄七建中士人與曾蔡啓語兩易百卄八曾文肅幐沙粥百卄九石豫言鄒志完再竄及降復元祐人百三十毛澤民和蔡元度鴛鴦詩百三一錢昻輕童貫百三二黃魯直浯溪碑曾公袞不欲書姓名百三三郭槩善於擇壻百三四王慶曾不隨曾國老濟江乃免於難百三五唐質肅公孫女識受釐殿名百三六王歧公在翰苑命門生供經史對百三七王兵部爲尉驗親識弓手殺人百三八米元章倚, WYG: 軫}
+  - {type: 'kr:newline', offset: 1309, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl116}
+  - {type: line-break, offset: 1309, content: '', id: KR3l0062_SBCK_005-7a05}
+  - {type: 'kr:newline', offset: 1318, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl117}
+  - {type: line-break, offset: 1318, content: '', id: KR3l0062_SBCK_005-7a06}
+  - {type: 'kr:newline', offset: 1332, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl118}
+  - {type: line-break, offset: 1332, content: '', id: KR3l0062_SBCK_005-7a07}
+  - {type: 'kr:newline', offset: 1341, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl119}
+  - {type: line-break, offset: 1341, content: '', id: KR3l0062_SBCK_005-7a08}
+  - {type: 'kr:newline', offset: 1358, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl120}
+  - {type: line-break, offset: 1358, content: '', id: KR3l0062_SBCK_005-7a09}
+  - {type: 'kr:newline', offset: 1371, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl121}
+  - {type: line-break, offset: 1371, content: '', id: KR3l0062_SBCK_005-7a10}
+  - {type: 'kr:newline', offset: 1379, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl122}
+  - {type: line-break, offset: 1379, content: '', id: KR3l0062_SBCK_005-7a11}
+  - {type: 'kr:newline', offset: 1396, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl123}
+  - {type: page-break, offset: 1396, content: '', id: KR3l0062_SBCK_005-7b}
+  - {type: 'kr:newline', offset: 1396, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl124}
+  - {type: line-break, offset: 1396, content: '', id: KR3l0062_SBCK_005-7b01}
+  - {type: 'kr:newline', offset: 1405, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl125}
+  - {type: line-break, offset: 1405, content: '', id: KR3l0062_SBCK_005-7b02}
+  - {type: 'kr:newline', offset: 1422, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl126}
+  - {type: line-break, offset: 1422, content: '', id: KR3l0062_SBCK_005-7b03}
+  - {type: variant, offset: 1433, length: 1, content: 釐, SBCK: 􅁵}
+  - {type: 'kr:newline', offset: 1436, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl127}
+  - {type: line-break, offset: 1436, content: '', id: KR3l0062_SBCK_005-7b04}
+  - {type: variant, offset: 1444, length: 1, content: 苑, SBCK: 􅁐}
+  - {type: 'kr:newline', offset: 1452, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl128}
+  - {type: line-break, offset: 1452, content: '', id: KR3l0062_SBCK_005-7b05}
+  - {type: variant, offset: 1463, length: 1, content: 弓, SBCK: 􅃓}
+  - {type: 'kr:newline', offset: 1467, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl129}
+  - {type: line-break, offset: 1467, content: '', id: KR3l0062_SBCK_005-7b06}
+  - {type: variant, offset: 1473, length: 1, content: 倚, SBCK: 􅀝}
+  - {type: variant, offset: 1477, length: 1, content: 凌, WYG: 之姻婭引登言路而首論其非遂罹逺竄潘兊朱勔里人不登其門而擯斥李森為中司不肯觀望王黼窮鄧之綱之獄而被逐燕雲之役葢成於王寀之枉繇盛章父子欲害劉炳兄弟世皆亡其事跡明清不量其愚為冥搜倫𩔖凡二十餘條摭據依本末告之公益}
+  - {type: page-break, offset: 1477, content: '', id: KR3l0062_WYG_004-18b, image: WYG1038/WYG1038-0398d.png}
+  - {type: variant, offset: 1479, length: 54, content: 漕張勵百三九吕元直奏除李良輔名百四十鍾正甫治鄒志完獄劉景鞠謝景思百四一王氏書爲陳元則所得百四二葉少藴書火於弁, WYG: 喜加敬歎又云僕兼攝天官覩銓牓有臨安龍}
+  - {type: 'kr:newline', offset: 1482, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl130}
+  - {type: line-break, offset: 1482, content: '', id: KR3l0062_SBCK_005-7b07}
+  - {type: 'kr:newline', offset: 1494, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl131}
+  - {type: line-break, offset: 1494, content: '', id: KR3l0062_SBCK_005-7b08}
+  - {type: 'kr:newline', offset: 1511, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl132}
+  - {type: line-break, offset: 1511, content: '', id: KR3l0062_SBCK_005-7b09}
+  - {type: 'kr:newline', offset: 1523, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl133}
+  - {type: line-break, offset: 1523, content: '', id: KR3l0062_SBCK_005-7b10}
+  - {type: variant, offset: 1534, length: 19, content: 李泰發藏書火於秦百四三東坡在張厚之家再, WYG: 監税}
+  - {type: 'kr:newline', offset: 1542, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl134}
+  - {type: line-break, offset: 1542, content: '', id: KR3l0062_SBCK_005-7b11}
+  - {type: variant, offset: 1554, length: 0, content: '', WYG: 次君可俯郭但食其禄而相與討論}
+  - {type: variant, offset: 1555, length: 0, content: '', WYG: 請}
+  - {type: variant, offset: 1556, length: 12, content: 猷家姬爲之感動百四四童貫, WYG: 于朝}
+  - {type: variant, offset: 1558, length: 1, content: 姬, SBCK: 􅁎}
+  - {type: 'kr:newline', offset: 1563, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl135}
+  - {type: page-break, offset: 1563, content: '', id: KR3l0062_SBCK_005-8a}
+  - {type: 'kr:newline', offset: 1563, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl136}
+  - {type: line-break, offset: 1563, content: '', id: KR3l0062_SBCK_005-8a01}
+  - {type: variant, offset: 1569, length: 120, content: 承宣使乗狨坐由是爲例百四五趙諗僞號隆興百四六髙俅本東坡小史卷之八百四七陳舉摘魯直塔記貶冝州舉復以進青蛇靑錢罰俸百四八王彦輔村里侍從百四九范寥告張懷素變百五十畢仲㳺杖張懷素百五一蔡文饒館李易百五二李漢老爲李濤五丗孫百五三李譓進萬歳蟾蜍百五四賈, WYG: 助我}
+  - {type: 'kr:newline', offset: 1579, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl137}
+  - {type: line-break, offset: 1579, content: '', id: KR3l0062_SBCK_005-8a02}
+  - {type: variant, offset: 1586, length: 1, content: 隆, SBCK: 􅂭}
+  - {type: 'kr:newline', offset: 1588, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl138}
+  - {type: line-break, offset: 1588, content: '', id: KR3l0062_SBCK_005-8a03}
+  - {type: 'kr:newline', offset: 1598, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl139}
+  - {type: line-break, offset: 1598, content: '', id: KR3l0062_SBCK_005-8a04}
+  - {type: indent, offset: 1598, content: 　, id: KR3l0062_krp_005-bkkind10}
+  - {type: 'kr:newline', offset: 1601, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl140}
+  - {type: line-break, offset: 1601, content: '', id: KR3l0062_SBCK_005-8a05}
+  - {type: 'kr:newline', offset: 1624, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl141}
+  - {type: line-break, offset: 1624, content: '', id: KR3l0062_SBCK_005-8a06}
+  - {type: 'kr:newline', offset: 1634, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl142}
+  - {type: line-break, offset: 1634, content: '', id: KR3l0062_SBCK_005-8a07}
+  - {type: 'kr:newline', offset: 1644, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl143}
+  - {type: line-break, offset: 1644, content: '', id: KR3l0062_SBCK_005-8a08}
+  - {type: 'kr:newline', offset: 1654, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl144}
+  - {type: line-break, offset: 1654, content: '', id: KR3l0062_SBCK_005-8a09}
+  - {type: 'kr:newline', offset: 1663, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl145}
+  - {type: line-break, offset: 1663, content: '', id: KR3l0062_SBCK_005-8a10}
+  - {type: 'kr:newline', offset: 1675, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl146}
+  - {type: line-break, offset: 1675, content: '', id: KR3l0062_SBCK_005-8a11}
+  - {type: 'kr:newline', offset: 1685, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl147}
+  - {type: page-break, offset: 1685, content: '', id: KR3l0062_SBCK_005-8b}
+  - {type: 'kr:newline', offset: 1685, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl148}
+  - {type: line-break, offset: 1685, content: '', id: KR3l0062_SBCK_005-8b01}
+  - {type: variant, offset: 1690, length: 18, content: 仲治童貫第得謝踰數萬緡百五五曾空青極, WYG: 清}
+  - {type: 'kr:newline', offset: 1701, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl149}
+  - {type: line-break, offset: 1701, content: '', id: KR3l0062_SBCK_005-8b02}
+  - {type: variant, offset: 1709, length: 396, content: 照瞩陳瑩中百五六王宣賛召劉斯立而距李延年至興獄累賔主百五七王倫隨李相至禁中自陳於殿下百五八舎人草東坡復官制院吏教爲結尾百五九陳述併治鄭良俱死而旅攅並室百六十江子我不信卜者之言百六一朱新仲代王彦昭致語用魯公帖及栁詞百六二蘇叔黨不從賊脅通夕痛飲而卒百六三蘇叔黨屬李植於向伯恭百六四蔡元長貶潭自歎失人心且作詞以卒百六五髙宗擢用徐師川百六六葉宗諤得婦人濟江百六七李元量魁天下卷之九百六八王廷秀閱丗録載眀受之變甚俻百六九頴彦文記髙宗幸海事百七十髙宗命王兵部撰楚州守將趙立死事傳卷之十百七一吳傅朋上殿髙宗自謂九里松牌不如呉說百七二王殏掩匿御府器玩服御百七三髙宗從王子裳言釋苗劉鹵掠婦女百七四錢穆収復平江記百七五秦㑹之脩和盟胡銓上書除名張仲宗送行詞削籍卷之十一百七六孫仲益作墓碑百七七徐康國傲忽觸韓璜劉剛百七八傳崧卿觸二執政名百七九范擇善迁葬百八十秦㑹之荅李元老啓百八一御史希秦㑹之言罷䥴汰濫賞百八二王承可, WYG: 辭}
+  - {type: 'kr:newline', offset: 1714, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl150}
+  - {type: line-break, offset: 1714, content: '', id: KR3l0062_SBCK_005-8b03}
+  - {type: 'kr:newline', offset: 1735, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl151}
+  - {type: line-break, offset: 1735, content: '', id: KR3l0062_SBCK_005-8b04}
+  - {type: 'kr:newline', offset: 1751, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl152}
+  - {type: line-break, offset: 1751, content: '', id: KR3l0062_SBCK_005-8b05}
+  - {type: 'kr:newline', offset: 1768, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl153}
+  - {type: line-break, offset: 1768, content: '', id: KR3l0062_SBCK_005-8b06}
+  - {type: 'kr:newline', offset: 1784, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl154}
+  - {type: line-break, offset: 1784, content: '', id: KR3l0062_SBCK_005-8b07}
+  - {type: 'kr:newline', offset: 1796, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl155}
+  - {type: line-break, offset: 1796, content: '', id: KR3l0062_SBCK_005-8b08}
+  - {type: 'kr:newline', offset: 1815, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl156}
+  - {type: line-break, offset: 1815, content: '', id: KR3l0062_SBCK_005-8b09}
+  - {type: variant, offset: 1818, length: 1, content: 蘇, SBCK: 􅂫}
+  - {type: 'kr:newline', offset: 1831, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl157}
+  - {type: line-break, offset: 1831, content: '', id: KR3l0062_SBCK_005-8b10}
+  - {type: variant, offset: 1834, length: 1, content: 蘇, SBCK: 􅂫}
+  - {type: 'kr:newline', offset: 1844, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl158}
+  - {type: line-break, offset: 1844, content: '', id: KR3l0062_SBCK_005-8b11}
+  - {type: 'kr:newline', offset: 1862, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl159}
+  - {type: page-break, offset: 1862, content: '', id: KR3l0062_SBCK_005-9a}
+  - {type: 'kr:newline', offset: 1862, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl160}
+  - {type: line-break, offset: 1862, content: '', id: KR3l0062_SBCK_005-9a01}
+  - {type: 'kr:newline', offset: 1872, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl161}
+  - {type: line-break, offset: 1872, content: '', id: KR3l0062_SBCK_005-9a02}
+  - {type: 'kr:newline', offset: 1883, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl162}
+  - {type: line-break, offset: 1883, content: '', id: KR3l0062_SBCK_005-9a03}
+  - {type: 'kr:newline', offset: 1892, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl163}
+  - {type: line-break, offset: 1892, content: '', id: KR3l0062_SBCK_005-9a04}
+  - {type: indent, offset: 1892, content: 　, id: KR3l0062_krp_005-bkkind11}
+  - {type: 'kr:newline', offset: 1895, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl164}
+  - {type: line-break, offset: 1895, content: '', id: KR3l0062_SBCK_005-9a05}
+  - {type: 'kr:newline', offset: 1911, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl165}
+  - {type: line-break, offset: 1911, content: '', id: KR3l0062_SBCK_005-9a06}
+  - {type: indent, offset: 1918, content: 　, id: KR3l0062_krp_005-bkkind12}
+  - {type: 'kr:newline', offset: 1923, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl166}
+  - {type: line-break, offset: 1923, content: '', id: KR3l0062_SBCK_005-9a07}
+  - {type: 'kr:newline', offset: 1942, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl167}
+  - {type: line-break, offset: 1942, content: '', id: KR3l0062_SBCK_005-9a08}
+  - {type: indent, offset: 1942, content: 　, id: KR3l0062_krp_005-bkkind13}
+  - {type: 'kr:newline', offset: 1945, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl168}
+  - {type: line-break, offset: 1945, content: '', id: KR3l0062_SBCK_005-9a09}
+  - {type: indent, offset: 1953, content: 　, id: KR3l0062_krp_005-bkkind14}
+  - {type: variant, offset: 1964, length: 1, content: 說, SBCK: 􅀃}
+  - {type: 'kr:newline', offset: 1965, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl169}
+  - {type: line-break, offset: 1965, content: '', id: KR3l0062_SBCK_005-9a10}
+  - {type: indent, offset: 1972, content: 　, id: KR3l0062_krp_005-bkkind15}
+  - {type: 'kr:newline', offset: 1978, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl170}
+  - {type: line-break, offset: 1978, content: '', id: KR3l0062_SBCK_005-9a11}
+  - {type: 'kr:newline', offset: 1995, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl171}
+  - {type: page-break, offset: 1995, content: '', id: KR3l0062_SBCK_005-9b}
+  - {type: 'kr:newline', offset: 1995, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl172}
+  - {type: line-break, offset: 1995, content: '', id: KR3l0062_SBCK_005-9b01}
+  - {type: 'kr:newline', offset: 2005, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl173}
+  - {type: line-break, offset: 2005, content: '', id: KR3l0062_SBCK_005-9b02}
+  - {type: 'kr:newline', offset: 2028, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl174}
+  - {type: line-break, offset: 2028, content: '', id: KR3l0062_SBCK_005-9b03}
+  - {type: indent, offset: 2028, content: 　, id: KR3l0062_krp_005-bkkind16}
+  - {type: 'kr:newline', offset: 2032, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl175}
+  - {type: line-break, offset: 2032, content: '', id: KR3l0062_SBCK_005-9b04}
+  - {type: 'kr:newline', offset: 2041, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl176}
+  - {type: line-break, offset: 2041, content: '', id: KR3l0062_SBCK_005-9b05}
+  - {type: 'kr:newline', offset: 2054, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl177}
+  - {type: line-break, offset: 2054, content: '', id: KR3l0062_SBCK_005-9b06}
+  - {type: variant, offset: 2057, length: 1, content: 傳, SBCK: 􅀓}
+  - {type: 'kr:newline', offset: 2065, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl178}
+  - {type: line-break, offset: 2065, content: '', id: KR3l0062_SBCK_005-9b07}
+  - {type: 'kr:newline', offset: 2073, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl179}
+  - {type: line-break, offset: 2073, content: '', id: KR3l0062_SBCK_005-9b08}
+  - {type: 'kr:newline', offset: 2084, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl180}
+  - {type: line-break, offset: 2084, content: '', id: KR3l0062_SBCK_005-9b09}
+  - {type: 'kr:newline', offset: 2099, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl181}
+  - {type: line-break, offset: 2099, content: '', id: KR3l0062_SBCK_005-9b10}
+  - {type: variant, offset: 2107, length: 65, content: 同偏旁縁秦㑹之誣罔以至侍從百八三周葵言梁仲謨語洩去位百八四秦㑹之使馮濟川探髙宗意百八五方庭實強勉入廣百八六馬子約梁揚祖因議斷強盗罪, WYG: 迹}
+  - {type: 'kr:newline', offset: 2120, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl182}
+  - {type: line-break, offset: 2120, content: '', id: KR3l0062_SBCK_005-9b11}
+  - {type: 'kr:newline', offset: 2133, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl183}
+  - {type: page-break, offset: 2133, content: '', id: KR3l0062_SBCK_005-10a}
+  - {type: 'kr:newline', offset: 2133, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl184}
+  - {type: line-break, offset: 2133, content: '', id: KR3l0062_SBCK_005-10a01}
+  - {type: indent, offset: 2144, content: 　, id: KR3l0062_krp_005-bkkind17}
+  - {type: 'kr:newline', offset: 2147, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl185}
+  - {type: line-break, offset: 2147, content: '', id: KR3l0062_SBCK_005-10a02}
+  - {type: 'kr:newline', offset: 2157, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl186}
+  - {type: line-break, offset: 2157, content: '', id: KR3l0062_SBCK_005-10a03}
+  - {type: variant, offset: 2164, length: 1, content: 揚, SBCK: 􅀭}
+  - {type: variant, offset: 2173, length: 30, content: 咸百八七朱希真雪溪集序百八八名家子知邵州希合秦㑹之按辛永宗籍, WYG: 正且非}
+  - {type: 'kr:newline', offset: 2174, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl187}
+  - {type: line-break, offset: 2174, content: '', id: KR3l0062_SBCK_005-10a04}
+  - {type: 'kr:newline', offset: 2184, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl188}
+  - {type: line-break, offset: 2184, content: '', id: KR3l0062_SBCK_005-10a05}
+  - {type: variant, offset: 2204, length: 25, content: 家百八九解潜爲韓丗忠草奏配嶺外百九十榮茂丗不受岳飛, WYG: 人而歸未幾公}
+  - {type: 'kr:newline', offset: 2205, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl189}
+  - {type: line-break, offset: 2205, content: '', id: KR3l0062_SBCK_005-10a06}
+  - {type: 'kr:newline', offset: 2219, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl190}
+  - {type: line-break, offset: 2219, content: '', id: KR3l0062_SBCK_005-10a07}
+  - {type: variant, offset: 2231, length: 2, content: 不軌, WYG: 俱去國明清餞别于秀州}
+  - {type: variant, offset: 2232, length: 1, content: 軌, SBCK: 􅁤}
+  - {type: variant, offset: 2234, length: 3, content: 訴百九, WYG: 杉青閘下舟中相持悵然後數年仲信没于蜀公後雖復召領史局而明清適官逺外參辰}
+  - {type: page-break, offset: 2234, content: '', id: KR3l0062_WYG_004-19a, image: WYG1038/WYG1038-0399a.png}
+  - {type: 'kr:newline', offset: 2235, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl191}
+  - {type: line-break, offset: 2235, content: '', id: KR3l0062_SBCK_005-10a08}
+  - {type: variant, offset: 2238, length: 2, content: 曾宏, WYG: 見方欲造公而公已下世比焉試邑窮塞公事無多飜篋復見舊藁愴念}
+  - {type: variant, offset: 2241, length: 20, content: 小顰誦赤壁二賦百九二髙宗問陳桷百九三秦㑹, WYG: 祖以來平生用心嗟夫師友}
+  - {type: 'kr:newline', offset: 2248, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl192}
+  - {type: line-break, offset: 2248, content: '', id: KR3l0062_SBCK_005-10a09}
+  - {type: 'kr:newline', offset: 2256, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl193}
+  - {type: line-break, offset: 2256, content: '', id: KR3l0062_SBCK_005-10a10}
+  - {type: variant, offset: 2262, length: 0, content: '', WYG: 淪没言猶在耳孰令聽之邪投老殘年感歎之餘姑}
+  - {type: variant, offset: 2263, length: 10, content: 姚宏不簽名卒以祈雨死, WYG: 胸中所存識左方後之攬者亦將太息于斯作淳熙乙巳中元日朝請}
+  - {type: variant, offset: 2274, length: 175, content: 理獄中百九四熊彦詩賀啓百九五錢遹迎拜臈冦痛毁時政爲冦所殺百九六李孝廣以費又試卷謗訕竄廣南死其子病又爲祟百九七方允迪以先得御注老子爲毛逹可所賞百九八譚稹梁師成言早來玉音可畏百九十孟富文爲執政二百王慶曾畏秦㑹之不爲顯仁償虜使金㑹之卒喜二百一曾吉父荅啓二百二孫立爲盗得壽州鈐轄印二百三王公明爲王原所疑二百四秦師垣謂魏道弼莫胡思亂量二百五陸農師揮麈後録目卷終, WYG: 夫}
+  - {type: 'kr:newline', offset: 2277, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl194}
+  - {type: line-break, offset: 2277, content: '', id: KR3l0062_SBCK_005-10a11}
+  - {type: 'kr:newline', offset: 2285, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl195}
+  - {type: page-break, offset: 2285, content: '', id: KR3l0062_SBCK_005-10b}
+  - {type: 'kr:newline', offset: 2285, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl196}
+  - {type: line-break, offset: 2285, content: '', id: KR3l0062_SBCK_005-10b01}
+  - {type: 'kr:newline', offset: 2302, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl197}
+  - {type: line-break, offset: 2302, content: '', id: KR3l0062_SBCK_005-10b02}
+  - {type: 'kr:newline', offset: 2325, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl198}
+  - {type: line-break, offset: 2325, content: '', id: KR3l0062_SBCK_005-10b03}
+  - {type: variant, offset: 2329, length: 1, content: 允, SBCK: 􅁢}
+  - {type: indent, offset: 2334, content: 　, id: KR3l0062_krp_005-bkkind18}
+  - {type: 'kr:newline', offset: 2344, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl199}
+  - {type: line-break, offset: 2344, content: '', id: KR3l0062_SBCK_005-10b04}
+  - {type: 'kr:newline', offset: 2359, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl200}
+  - {type: line-break, offset: 2359, content: '', id: KR3l0062_SBCK_005-10b05}
+  - {type: 'kr:newline', offset: 2368, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl201}
+  - {type: line-break, offset: 2368, content: '', id: KR3l0062_SBCK_005-10b06}
+  - {type: 'kr:newline', offset: 2389, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl202}
+  - {type: line-break, offset: 2389, content: '', id: KR3l0062_SBCK_005-10b07}
+  - {type: variant, offset: 2393, length: 1, content: 吉, SBCK: 􅁻}
+  - {type: 'kr:newline', offset: 2397, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl203}
+  - {type: line-break, offset: 2397, content: '', id: KR3l0062_SBCK_005-10b08}
+  - {type: 'kr:newline', offset: 2410, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl204}
+  - {type: line-break, offset: 2410, content: '', id: KR3l0062_SBCK_005-10b09}
+  - {type: 'kr:newline', offset: 2421, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl205}
+  - {type: line-break, offset: 2421, content: '', id: KR3l0062_SBCK_005-10b10}
+  - {type: 'kr:newline', offset: 2436, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl206}
+  - {type: line-break, offset: 2436, content: '', id: KR3l0062_SBCK_005-10b11}
+  - {type: indent, offset: 2442, content: 　, id: KR3l0062_krp_005-bkkind19}
+  - {type: 'kr:non-cjk', offset: 2442, content: ︻, id: KR3l0062_krp_005-bkkkrnonc1}
+  - {type: 'kr:newline', offset: 2449, content: '
+
+      ', id: KR3l0062_krp_005-bkkkrnewl207}
+  back: []
+hash: sha256:32ca139dba860b52c4f002a662f93ff5950aac7b81f2f64cb7c4472dca97cfc4

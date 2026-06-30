@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3l0062/WYG/v1/juan/4
+seq: 4
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 揮麈前錄
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-12 00:24:53.724701'
+  source:
+    repository: kanripo
+    path: KR3l0062/KR3l0062_004.txt
+hash: sha256:04d58099e29c962a2dbee34f3086287a20763c08566b3a0399be0df75583e1a6
