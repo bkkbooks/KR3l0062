@@ -7,6 +7,7 @@ markers:
       ', id: KR3l0062_krp_021-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR3l0062_SBCK_021-1a01}
   - {type: variant, offset: 0, length: 8, content: 揮麈録餘話緫目卷, WYG: 撰劉廷者開封人向氏甥頗知書少年不撿無家可歸從張懷素左道於眞州一日懷素語廷云吾嘗遣范信中往說諸遷客於湖廣間乆}
+  - {type: substitution, offset: 5, original: 緫, replacement: 總, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19895}}
   - {type: 'kr:newline', offset: 7, content: '
 
       ', id: KR3l0062_krp_021-bkkkrnewl2}
@@ -43,6 +44,7 @@ markers:
 
       ', id: KR3l0062_krp_021-bkkkrnewl7}
   - {type: line-break, offset: 43, content: '', id: KR3l0062_SBCK_021-1a07}
+  - {type: substitution, offset: 45, original: 夣, replacement: 夢, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19960}}
   - {type: variant, offset: 48, length: 11, content: 對聖語六建炎符兆七髙宗, WYG: 云張九成在其鄉里臨安府鹽官縣寄居去行闕無百里而逺兩日前方有文字來乞將磨勘一官回授父改緋章服}
   - {type: indent, offset: 49, content: 　, id: KR3l0062_krp_021-bkkind1}
   - {type: 'kr:newline', offset: 51, content: '
@@ -62,6 +64,8 @@ markers:
   - {type: variant, offset: 69, length: 0, content: '', WYG: 為中司上疏力排之元直移元鎮為翰林學士元鎮引司馬温公故事以不習駢驪之文不肯就職且辭且攻之章至十數上元直竟從䇿免以優禮而去元鎭徑除簽書樞密院事時建炎四年四月也許志仁龍舒之秀士能詩善謔早為李伯紀之門賔伯紀捐舘諸子延緇徒為佛事羣僧請懴悔之詞於許迺取汪彥章昔所行謫詞中數語以授之僧徒高唱云朋邪罔上罪消滅欺世盗名罪消滅如此者不一諸子憤怒詢其所繇知出於志仁詬}
   - {type: page-break, offset: 69, content: '', id: KR3l0062_WYG_018-4b, image: WYG1038/WYG1038-0557b.png}
   - {type: variant, offset: 70, length: 5, content: 黄彦節九沈, WYG: 而逐}
+  - {type: substitution, offset: 70, original: 黄, replacement: 黃, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20825}}
+  - {type: substitution, offset: 71, original: 彦, replacement: 彥, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20772}}
   - {type: 'kr:newline', offset: 73, content: '
 
       ', id: KR3l0062_krp_021-bkkkrnewl11}
@@ -166,6 +170,7 @@ markers:
 
       ', id: KR3l0062_krp_021-bkkkrnewl23}
   - {type: line-break, offset: 180, content: '', id: KR3l0062_SBCK_021-1b11}
+  - {type: substitution, offset: 187, original: 凉, replacement: 涼, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17200}}
   - {type: 'kr:newline', offset: 193, content: '
 
       ', id: KR3l0062_krp_021-bkkkrnewl24}
@@ -201,6 +206,7 @@ markers:
       ', id: KR3l0062_krp_021-bkkkrnewl31}
   - {type: line-break, offset: 249, content: '', id: KR3l0062_SBCK_021-2a07}
   - {type: variant, offset: 260, length: 17, content: 爲詆誣二十八士林佳話二十九景煥述野, WYG: 相問云此何}
+  - {type: substitution, offset: 260, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: 'kr:newline', offset: 263, content: '
 
       ', id: KR3l0062_krp_021-bkkkrnewl32}
@@ -210,6 +216,7 @@ markers:
       ', id: KR3l0062_krp_021-bkkkrnewl33}
   - {type: line-break, offset: 270, content: '', id: KR3l0062_SBCK_021-2a09}
   - {type: variant, offset: 278, length: 39, content: 閑話三十事有相類而禍福不侔三十一王文穆薦同年尉三十二東坡送章守湖州詩三十三錢穆, WYG: 邪明清云頃歲大}
+  - {type: substitution, offset: 278, original: 閑, replacement: 間, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20377}}
   - {type: 'kr:newline', offset: 280, content: '
 
       ', id: KR3l0062_krp_021-bkkkrnewl34}
@@ -244,6 +251,7 @@ markers:
 
       ', id: KR3l0062_krp_021-bkkkrnewl41}
   - {type: line-break, offset: 343, content: '', id: KR3l0062_SBCK_021-2b05}
+  - {type: substitution, offset: 350, original: 帬, replacement: 裙, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17529}}
   body:
   - {type: 'kr:newline', offset: 0, content: '
 
@@ -262,6 +270,7 @@ markers:
 
       ', id: KR3l0062_krp_021-bkkkrnewl4}
   - {type: line-break, offset: 20, content: '', id: KR3l0062_SBCK_021-2b09}
+  - {type: substitution, offset: 31, original: 僊, replacement: 仙, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16258}}
   - {type: 'kr:newline', offset: 33, content: '
 
       ', id: KR3l0062_krp_021-bkkkrnewl5}
@@ -361,6 +370,7 @@ markers:
 
       ', id: KR3l0062_krp_021-bkkkrnewl28}
   - {type: line-break, offset: 224, content: '', id: KR3l0062_SBCK_021-3b09}
+  - {type: substitution, offset: 230, original: 虚, replacement: 虛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20813}}
   - {type: 'kr:newline', offset: 232, content: '
 
       ', id: KR3l0062_krp_021-bkkkrnewl29}
@@ -403,6 +413,7 @@ markers:
 
       ', id: KR3l0062_krp_021-bkkkrnewl38}
   - {type: line-break, offset: 297, content: '', id: KR3l0062_SBCK_021-4a07}
+  - {type: substitution, offset: 300, original: 㑹, replacement: 會, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0002}}
   - {type: 'kr:newline', offset: 306, content: '
 
       ', id: KR3l0062_krp_021-bkkkrnewl39}
@@ -415,10 +426,13 @@ markers:
 
       ', id: KR3l0062_krp_021-bkkkrnewl41}
   - {type: line-break, offset: 328, content: '', id: KR3l0062_SBCK_021-4a10}
+  - {type: substitution, offset: 331, original: 㑹, replacement: 會, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0002}}
   - {type: 'kr:newline', offset: 337, content: '
 
       ', id: KR3l0062_krp_021-bkkkrnewl42}
   - {type: line-break, offset: 337, content: '', id: KR3l0062_SBCK_021-4a11}
+  - {type: substitution, offset: 340, original: 㑹, replacement: 會, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0002}}
+  - {type: substitution, offset: 345, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: 'kr:newline', offset: 348, content: '
 
       ', id: KR3l0062_krp_021-bkkkrnewl43}
@@ -431,6 +445,7 @@ markers:
 
       ', id: KR3l0062_krp_021-bkkkrnewl45}
   - {type: line-break, offset: 355, content: '', id: KR3l0062_SBCK_021-4b02}
+  - {type: substitution, offset: 364, original: 暦, replacement: 曆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20783}}
   - {type: 'kr:newline', offset: 366, content: '
 
       ', id: KR3l0062_krp_021-bkkkrnewl46}
@@ -443,19 +458,23 @@ markers:
 
       ', id: KR3l0062_krp_021-bkkkrnewl48}
   - {type: line-break, offset: 386, content: '', id: KR3l0062_SBCK_021-4b05}
+  - {type: substitution, offset: 389, original: 㑹, replacement: 會, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0002}}
   - {type: 'kr:newline', offset: 395, content: '
 
       ', id: KR3l0062_krp_021-bkkkrnewl49}
   - {type: line-break, offset: 395, content: '', id: KR3l0062_SBCK_021-4b06}
   - {type: variant, offset: 401, length: 1, content: 𥙷, SBCK: 􅀘}
+  - {type: substitution, offset: 401, original: 𥙷, replacement: 輔, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-5439}}
   - {type: 'kr:newline', offset: 404, content: '
 
       ', id: KR3l0062_krp_021-bkkkrnewl50}
   - {type: line-break, offset: 404, content: '', id: KR3l0062_SBCK_021-4b07}
+  - {type: substitution, offset: 409, original: 岳, replacement: 嶽, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20630}}
   - {type: 'kr:newline', offset: 412, content: '
 
       ', id: KR3l0062_krp_021-bkkkrnewl51}
   - {type: line-break, offset: 412, content: '', id: KR3l0062_SBCK_021-4b08}
+  - {type: substitution, offset: 417, original: 盗, replacement: 盜, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19616}}
   - {type: 'kr:newline', offset: 420, content: '
 
       ', id: KR3l0062_krp_021-bkkkrnewl52}
@@ -464,11 +483,13 @@ markers:
 
       ', id: KR3l0062_krp_021-bkkkrnewl53}
   - {type: line-break, offset: 431, content: '', id: KR3l0062_SBCK_021-4b10}
+  - {type: substitution, offset: 433, original: 呉, replacement: 吳, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19438}}
   - {type: 'kr:newline', offset: 439, content: '
 
       ', id: KR3l0062_krp_021-bkkkrnewl54}
   - {type: line-break, offset: 439, content: '', id: KR3l0062_SBCK_021-4b11}
   - {type: variant, offset: 447, length: 1, content: 寄, SBCK: 􅀉}
+  - {type: substitution, offset: 448, original: 禄, replacement: 祿, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20754}}
   - {type: 'kr:newline', offset: 449, content: '
 
       ', id: KR3l0062_krp_021-bkkkrnewl55}
@@ -485,6 +506,7 @@ markers:
 
       ', id: KR3l0062_krp_021-bkkkrnewl58}
   - {type: line-break, offset: 469, content: '', id: KR3l0062_SBCK_021-5a03}
+  - {type: substitution, offset: 472, original: 彦, replacement: 彥, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20772}}
   - {type: 'kr:newline', offset: 477, content: '
 
       ', id: KR3l0062_krp_021-bkkkrnewl59}
@@ -493,6 +515,7 @@ markers:
 
       ', id: KR3l0062_krp_021-bkkkrnewl60}
   - {type: line-break, offset: 487, content: '', id: KR3l0062_SBCK_021-5a05}
+  - {type: substitution, offset: 495, original: 覧, replacement: 覽, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20749}}
   - {type: 'kr:newline', offset: 498, content: '
 
       ', id: KR3l0062_krp_021-bkkkrnewl61}
@@ -503,6 +526,7 @@ markers:
   - {type: line-break, offset: 507, content: '', id: KR3l0062_SBCK_021-5a07}
   - {type: variant, offset: 511, length: 1, content: 舟, WYG: 於廬山圓通寺撫江南李}
   - {type: variant, offset: 513, length: 5, content: 盗鑄錢九三, WYG: 主像藏於家今此繪容即其人文榘丹青之妙在當日列神品葢畫一時之景也亟走介往㑹稽取舊收李像以呈似靣貎冠服無豪髪之少異因為跋其後樓深以}
+  - {type: substitution, offset: 513, original: 盗, replacement: 盜, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19616}}
   - {type: 'kr:newline', offset: 516, content: '
 
       ', id: KR3l0062_krp_021-bkkkrnewl63}
@@ -517,6 +541,7 @@ markers:
 
       ', id: KR3l0062_krp_021-bkkkrnewl65}
   - {type: line-break, offset: 530, content: '', id: KR3l0062_SBCK_021-5a10}
+  - {type: substitution, offset: 533, original: 㑹, replacement: 會, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0002}}
   - {type: 'kr:newline', offset: 540, content: '
 
       ', id: KR3l0062_krp_021-bkkkrnewl66}
@@ -555,6 +580,7 @@ markers:
   - {type: variant, offset: 566, length: 1, content: 團, WYG: 向}
   - {type: variant, offset: 567, length: 1, content: 石, WYG: 誰}
   - {type: variant, offset: 568, length: 1, content: 䜟, WYG: 問}
+  - {type: substitution, offset: 568, original: 䜟, replacement: 讖, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-5168}}
   - {type: variant, offset: 569, length: 1, content: 語, WYG: 尺}
   - {type: 'kr:newline', offset: 570, content: '
 
@@ -573,8 +599,9 @@ markers:
   - {type: variant, offset: 578, length: 1, content: 録, WYG: 三錄卷三欽定四庫全書揮麈}
   - {type: page-break, offset: 578, content: '', id: KR3l0062_WYG_019-1a, image: WYG1038/WYG1038-0566a.png}
   - {type: variant, offset: 581, length: 3, content: 緫目終, WYG: 卷一宋王明清撰}
+  - {type: substitution, offset: 581, original: 緫, replacement: 總, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19895}}
   - {type: 'kr:newline', offset: 584, content: '
 
       ', id: KR3l0062_krp_021-bkkkrnewl73}
   back: []
-hash: sha256:dcd158f783daa8241679d748bcd495b60f8adf9fe8d2f20d3bdbf2fd6bce749f
+hash: sha256:4a8ef0851313e993496fe93aa3265c4823ecece85a13a0e45e2809e0bac5067d

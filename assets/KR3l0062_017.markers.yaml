@@ -16,6 +16,7 @@ markers:
   - {type: page-break, offset: 3, content: '', id: KR3l0062_WYG_015-4a, image: WYG1038/WYG1038-0524c.png}
   - {type: page-break, offset: 3, content: '', id: KR3l0062_WYG_015-4b, image: WYG1038/WYG1038-0524d.png}
   - {type: variant, offset: 5, length: 1, content: 緫, WYG: 亦}
+  - {type: substitution, offset: 5, original: 緫, replacement: 總, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19895}}
   - {type: variant, offset: 6, length: 1, content: 目, WYG: 略}
   - {type: variant, offset: 7, length: 1, content: 卷, WYG: 載}
   body:
@@ -59,6 +60,7 @@ markers:
   - {type: variant, offset: 39, length: 1, content: 呉, WYG: 年紹興庚申秋敵人敗約復取河南故地秦會之在相位蹤迹頗危時馮濟川檝爲貳卿一日相見告之云金人背盟我之去就未可卜如前此元老大臣皆不足慮獨君鄉衮未測淵衷如何公其爲我探之翌日濟川求對啓上云金人長驅犯淮勢須興師如張某者當且以戎機付之髙宗正色曰寧至覆國不用此人濟川亟以告秦秦且喜且感濟川云適觀天意檝必被逐願乞瀘川以爲晝繡至晩批出馮檝令與外任遂以檝爲待制帥瀘南在任凡十二年張文老云方公美庭實興化人其父宣和中嘗爲廣南提學以卒公美後登科至紹興間自省郎爲廣東提刑以母憂去官服闋復除是職公美辭以不忍往秦會之不樂降㫖趣行公美勉强之官謝上表云三舍教育先臣之遺愛尚存一笑平反慈母之音容未逺讀者哀之已而竟没於嶺外蘇少連云馬子約純紹興中爲江西漕時梁企道楊祖爲帥每强盜勑下貸命必配潮州喻部吏至郊外即投之江中如此者屢矣子約云使其合死則自正刑典以其罪止於流故赦其生猶或自新既斷之後即平人爾倘如此與殺無罪之人何以異乎二公由此不咸後以他事交愬於朝俱罷去初熙寧中子約父}
   - {type: page-break, offset: 39, content: '', id: KR3l0062_WYG_015-7a, image: WYG1038/WYG1038-0526a.png}
   - {type: page-break, offset: 39, content: '', id: KR3l0062_WYG_015-7b, image: WYG1038/WYG1038-0526b.png}
+  - {type: substitution, offset: 39, original: 呉, replacement: 吳, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19438}}
   - {type: variant, offset: 42, length: 0, content: '', WYG: 黙知登州建言乞減放沙門島罪人處厚時未有嗣夢天錫一子當夀八十仕至諫議大夫前人已記之矣子約隆興初以太中大夫致仕夀八十一而終太中蓋官制前諫議大夫也紹興丁卯嵗明清從朱三十五丈希眞乞先人文集序引文既成矣出以相示其中有云公受今維垣益公深知倚用而不及明清讀至此啓云竊有疑焉朱丈云敦儒}
   - {type: page-break, offset: 42, content: '', id: KR3l0062_WYG_015-8a, image: WYG1038/WYG1038-0526c.png}
   - {type: variant, offset: 43, length: 3, content: 蔡持正, WYG: 先丈皆秦會之所}
@@ -75,6 +77,7 @@ markers:
   - {type: variant, offset: 50, length: 2, content: 南豐, WYG: 宏父生長綺紈而風流醖藉聞於薦紳長於歌詩膾炙人口紹興中守黃州有雙鬟小顰者頗慧􅃛宏父令誦東坡先生赤壁前後二賦客至代謳人多稱之見於謝景思所叙刋行詞策後歸上饒時鄭顧道吕居仁晁恭道俱爲寓客日夕往來杯酒流行顧道教其小獲亦爲此技宏父顧鄭笑曰此眞所謂效顰也後來士大夫家與夫尊俎之間悉轉而爲鄭衛之音不獨二賦而已明清兄弟兒時先妣製道服先人云須異於俗人者乃佳舊見黃太史魯直所服絶勝時在臨安呼匠者教令染之久之始就名之曰山谷褐數十年來則人人斆之㡬遍國中矣秦會之爲相髙宗忽問陳桷好士人今何在可惜閒却當與一差遣會之乃繆以元承爲對云今從韓世忠}
   - {type: page-break, offset: 50, content: '', id: KR3l0062_WYG_015-10b, image: WYG1038/WYG1038-0527d.png}
   - {type: variant, offset: 53, length: 6, content: 陳無已邢和叔, WYG: ''}
+  - {type: substitution, offset: 59, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: variant, offset: 60, length: 1, content: 實, WYG: 宣}
   - {type: variant, offset: 61, length: 1, content: 録, WYG: 司}
   - {type: variant, offset: 62, length: 1, content: 檢, WYG: 參}
@@ -129,14 +132,17 @@ markers:
 
       ', id: KR3l0062_krp_017-bkkkrnewl17}
   - {type: line-break, offset: 140, content: '', id: KR3l0062_SBCK_017-1b06}
+  - {type: substitution, offset: 143, original: 㑹, replacement: 會, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0002}}
   - {type: 'kr:newline', offset: 148, content: '
 
       ', id: KR3l0062_krp_017-bkkkrnewl18}
   - {type: line-break, offset: 148, content: '', id: KR3l0062_SBCK_017-1b07}
+  - {type: substitution, offset: 151, original: 㓜, replacement: 幼, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19391}}
   - {type: 'kr:newline', offset: 155, content: '
 
       ', id: KR3l0062_krp_017-bkkkrnewl19}
   - {type: line-break, offset: 155, content: '', id: KR3l0062_SBCK_017-1b08}
+  - {type: substitution, offset: 158, original: 禀, replacement: 稟, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17634}}
   - {type: 'kr:newline', offset: 167, content: '
 
       ', id: KR3l0062_krp_017-bkkkrnewl20}
@@ -173,6 +179,7 @@ markers:
   - {type: 'kr:non-cjk', offset: 223, content: ☰, id: KR3l0062_krp_017-bkkkrnonc1}
   - {type: variant, offset: 223, length: 0, content: '', SBCK: 􅥅}
   - {type: variant, offset: 225, length: 20, content: 黃大本朱弁行狀二十四髙宗召見張九成二十五, WYG: 暉嘗任户侍令聲少有才名}
+  - {type: substitution, offset: 229, original: 弁, replacement: 辨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20737}}
   - {type: 'kr:newline', offset: 232, content: '
 
       ', id: KR3l0062_krp_017-bkkkrnewl28}
@@ -193,6 +200,7 @@ markers:
   - {type: variant, offset: 255, length: 0, content: '', WYG: 年慈寧回鑾會之以功陞維垣叔雅以啓賀之云大風動地不移存趙之心白刃在前獨奮安劉之略會之大喜起知永州已而擢漕湖北其後王日嚴曮爲少蓬權直禁林會之加恩取其聯入制詞中翌日即除禮部侍郎甲戌嵗䇿士於庭有引此以對大問者遂魁天下薛仲藏云外舅方務德有聞見手記近事凡}
   - {type: page-break, offset: 255, content: '', id: KR3l0062_WYG_015-13a, image: WYG1038/WYG1038-0529a.png}
   - {type: variant, offset: 256, length: 26, content: 許志仁善戯謔二十七靠背交椅自梁仲謨始二十八曾空青辯謗, WYG: 條今悉}
+  - {type: substitution, offset: 260, original: 戯, replacement: 戲, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16426}}
   - {type: 'kr:newline', offset: 262, content: '
 
       ', id: KR3l0062_krp_017-bkkkrnewl31}
@@ -201,11 +209,14 @@ markers:
 
       ', id: KR3l0062_krp_017-bkkkrnewl32}
   - {type: line-break, offset: 274, content: '', id: KR3l0062_SBCK_017-2a09}
+  - {type: substitution, offset: 280, original: 辯, replacement: 辨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20391}}
   - {type: 'kr:newline', offset: 283, content: '
 
       ', id: KR3l0062_krp_017-bkkkrnewl33}
   - {type: line-break, offset: 283, content: '', id: KR3l0062_SBCK_017-2a10}
   - {type: variant, offset: 283, length: 20, content: 十十九岳侯與王樞宻葬地一同三十黃逹如監察, WYG: 之錢遹爲侍}
+  - {type: substitution, offset: 286, original: 岳, replacement: 嶽, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20630}}
+  - {type: substitution, offset: 291, original: 宻, replacement: 密, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19356}}
   - {type: 'kr:newline', offset: 296, content: '
 
       ', id: KR3l0062_krp_017-bkkkrnewl34}
@@ -294,6 +305,7 @@ markers:
       ', id: KR3l0062_krp_017-bkkkrnewl46}
   - {type: line-break, offset: 445, content: '', id: KR3l0062_SBCK_017-2b11}
   - {type: variant, offset: 447, length: 1, content: 尤, SBCK: 􅀹}
+  - {type: substitution, offset: 450, original: 愽, replacement: 博, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17418}}
   - {type: indent, offset: 454, content: 　, id: KR3l0062_krp_017-bkkind8}
   - {type: variant, offset: 454, length: 0, content: '', WYG: 見漫緝小帙曰}
   - {type: variant, offset: 456, length: 1, content: 第, WYG: 録輒以鏤板正疑審是於師友之前久矣竊伏自念平昔以來父祖談訓親交話言中心藏之尚餘不少始者乏思慮筆之簡編傳信之際或招怨尤今復惟之侵㝷晩景倘棄而不錄恐一旦溘先朝露則俱墮渺茫誠爲可惜若夫於其中間善有可勸惡有可戒出於無心可也豈在於因噎而廢食朝謁之暇濡毫紀之總一百七十條無一事一字無所從來釐爲六卷名之曰揮麈後録尚容思索嗣列於左紹熙甲寅上元日汝陰王明清書於武林官舍半山樓古之史官小事書於簡牘所謂廣記備言者在此東漢以後傳記益衆皆以爲史筆之資然而詮擇不精疑信相半紬書者病之汝陰王仲言家傳史學三世矣族黨交游無非一時名公巨人平日談論皆後學之所未聞者渡江以來簡冊散亡老成凋落於是有攷焉曩嘗筆其所聞爲揮麈錄既又續之所記益廣其間雅徤之文著述之體誠有所自來也儻使遂一家之言當不愧實錄云海陵王禹錫謹書雪溪公嘗著國朝史述仲言其仲子也其祖授學於歐陽永叔之門仲言又授學於李仁甫之門不惟家傳史學三世其師友淵源蓋有自矣前集中多載國朝巨典盛事兹集十有一卷法戒具見毫端自稱無一事一字無所從來俾趙甡之竊婦翁張鑑書以爲己有者聞之不慙惶無地耶虞山毛晉識欽定四庫全書揮麈}
@@ -302,8 +314,9 @@ markers:
   - {type: page-break, offset: 456, content: '', id: KR3l0062_WYG_015-22b, image: WYG1038/WYG1038-0533d.png}
   - {type: page-break, offset: 456, content: '', id: KR3l0062_WYG_016-1a, image: WYG1038/WYG1038-0534a.png}
   - {type: variant, offset: 459, length: 3, content: 緫目終, WYG: 卷一宋王明清撰}
+  - {type: substitution, offset: 459, original: 緫, replacement: 總, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19895}}
   - {type: 'kr:newline', offset: 462, content: '
 
       ', id: KR3l0062_krp_017-bkkkrnewl47}
   back: []
-hash: sha256:582d446668878ecc299508007ecc142c1fffd3cdc0fa124e7e26412f58967293
+hash: sha256:a97b7e2824e8f97380ee9dcad7b9f398f009995db4159a75571c40ef8b0a5ea3
