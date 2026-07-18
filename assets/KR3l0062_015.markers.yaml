@@ -12,6 +12,7 @@ markers:
       ', id: KR3l0062_krp_015-bkkkrnewl2}
   - {type: line-break, offset: 7, content: '', id: KR3l0062_SBCK_015-1a02}
   - {type: punctuation, offset: 7, content: (, id: KR3l0062_krp_015-bkkpn1}
+  - {type: voice, offset: 7, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 10, content: ), id: KR3l0062_krp_015-bkkpn2}
   - {type: indent, offset: 11, content: 　, id: KR3l0062_krp_015-bkkind1}
   - {type: indent, offset: 12, content: 　, id: KR3l0062_krp_015-bkkind2}
@@ -67,10 +68,12 @@ markers:
   - {type: line-break, offset: 73, content: '', id: KR3l0062_SBCK_015-1a08}
   - {type: punctuation, offset: 73, content: (, id: KR3l0062_krp_015-bkkpn1}
   - {type: variant, offset: 73, length: 3, content: 百七二, WYG: ''}
+  - {type: voice, offset: 73, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 76, content: ), id: KR3l0062_krp_015-bkkpn2}
   - {type: punctuation, offset: 84, content: (, id: KR3l0062_krp_015-bkkpn3}
   - {type: variant, offset: 84, length: 1, content: 傳, SBCK: 􅀓}
   - {type: variant, offset: 84, length: 1, content: 傳, WYG: 傅}
+  - {type: voice, offset: 84, length: 4, name: note, id: n2}
   - {type: punctuation, offset: 88, content: ), id: KR3l0062_krp_015-bkkpn4}
   - {type: 'kr:newline', offset: 88, content: '
 
@@ -124,6 +127,7 @@ markers:
   - {type: line-break, offset: 197, content: '', id: KR3l0062_SBCK_015-1b04}
   - {type: punctuation, offset: 197, content: (, id: KR3l0062_krp_015-bkkpn5}
   - {type: variant, offset: 197, length: 3, content: 百七三, WYG: ''}
+  - {type: voice, offset: 197, length: 3, name: note, id: n3}
   - {type: punctuation, offset: 200, content: ), id: KR3l0062_krp_015-bkkpn6}
   - {type: variant, offset: 201, length: 1, content: 于, WYG: 於}
   - {type: 'kr:newline', offset: 209, content: '
@@ -170,6 +174,7 @@ markers:
   - {type: line-break, offset: 303, content: '', id: KR3l0062_SBCK_015-1b10}
   - {type: punctuation, offset: 303, content: (, id: KR3l0062_krp_015-bkkpn7}
   - {type: variant, offset: 303, length: 3, content: 百七四, WYG: ''}
+  - {type: voice, offset: 303, length: 3, name: note, id: n4}
   - {type: punctuation, offset: 306, content: ), id: KR3l0062_krp_015-bkkpn8}
   - {type: indent, offset: 309, content: 　, id: KR3l0062_krp_015-bkkind20}
   - {type: variant, offset: 309, length: 0, content: '', WYG: 兇}
@@ -639,6 +644,7 @@ markers:
   - {type: variant, offset: 1354, length: 1, content: 與, SBCK: 􅑻}
   - {type: variant, offset: 1354, length: 1, content: 與, WYG: 珏}
   - {type: punctuation, offset: 1357, content: (, id: KR3l0062_krp_015-bkkpn9}
+  - {type: voice, offset: 1357, length: 6, name: note, id: n5}
   - {type: punctuation, offset: 1360, content: /, id: KR3l0062_krp_015-bkkpn10}
   - {type: punctuation, offset: 1363, content: ), id: KR3l0062_krp_015-bkkpn11}
   - {type: variant, offset: 1365, length: 1, content: 隷, SBCK: 􅀠}
@@ -1298,6 +1304,7 @@ markers:
   - {type: line-break, offset: 2862, content: '', id: KR3l0062_SBCK_015-8a03}
   - {type: punctuation, offset: 2862, content: (, id: KR3l0062_krp_015-bkkpn12}
   - {type: variant, offset: 2862, length: 3, content: 百七五, WYG: ''}
+  - {type: voice, offset: 2862, length: 3, name: note, id: n6}
   - {type: punctuation, offset: 2865, content: ), id: KR3l0062_krp_015-bkkpn13}
   - {type: 'kr:newline', offset: 2871, content: '
 
@@ -2040,6 +2047,7 @@ markers:
       ', id: KR3l0062_krp_015-bkkkrnewl259}
   - {type: line-break, offset: 4417, content: '', id: KR3l0062_SBCK_015-11b10}
   - {type: punctuation, offset: 4417, content: (, id: KR3l0062_krp_015-bkkpn14}
+  - {type: voice, offset: 4417, length: 13, name: note, id: n7}
   - {type: variant, offset: 4419, length: 1, content: 叚, WYG: 段}
   - {type: substitution, offset: 4419, original: 叚, replacement: 假, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17324}}
   - {type: variant, offset: 4421, length: 1, content: 邦, SBCK: 􅀖}
@@ -2059,4 +2067,4 @@ markers:
   - {type: variant, offset: 4437, length: 0, content: '', WYG: 欽定四庫全書揮麈後録卷十一宋王明清撰}
   - {type: page-break, offset: 4437, content: '', id: KR3l0062_WYG_015-1a, image: WYG1038/WYG1038-0523a.png}
   back: []
-hash: sha256:517b9144209c4be38c983f8bdc32f1de95de14ba85f14c837b18738d037721f1
+hash: sha256:26058d485e9ade322974992c61d6b16130fce444f6bce662fc057d7c5343a4d6

@@ -12,6 +12,7 @@ markers:
       ', id: KR3l0062_krp_014-bkkkrnewl2}
   - {type: line-break, offset: 7, content: '', id: KR3l0062_SBCK_014-1a02}
   - {type: punctuation, offset: 7, content: (, id: KR3l0062_krp_014-bkkpn1}
+  - {type: voice, offset: 7, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 10, content: ), id: KR3l0062_krp_014-bkkpn2}
   - {type: indent, offset: 11, content: 　, id: KR3l0062_krp_014-bkkind1}
   - {type: indent, offset: 12, content: 　, id: KR3l0062_krp_014-bkkind2}
@@ -104,6 +105,7 @@ markers:
   - {type: indent, offset: 169, content: 　, id: KR3l0062_krp_014-bkkind12}
   - {type: variant, offset: 171, length: 1, content: 宿, SBCK: 􅀫}
   - {type: punctuation, offset: 178, content: (, id: KR3l0062_krp_014-bkkpn1}
+  - {type: voice, offset: 178, length: 11, name: note, id: n1}
   - {type: punctuation, offset: 184, content: /, id: KR3l0062_krp_014-bkkpn2}
   - {type: substitution, offset: 187, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: punctuation, offset: 189, content: ), id: KR3l0062_krp_014-bkkpn3}
@@ -363,6 +365,7 @@ markers:
       ', id: KR3l0062_krp_014-bkkkrnewl46}
   - {type: line-break, offset: 758, content: '', id: KR3l0062_SBCK_014-3a01}
   - {type: punctuation, offset: 758, content: (, id: KR3l0062_krp_014-bkkpn4}
+  - {type: voice, offset: 758, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 760, content: ), id: KR3l0062_krp_014-bkkpn5}
   - {type: substitution, offset: 760, original: 冩, replacement: 寫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20078}}
   - {type: indent, offset: 764, content: 　, id: KR3l0062_krp_014-bkkind59}
@@ -899,6 +902,7 @@ markers:
   - {type: line-break, offset: 1963, content: '', id: KR3l0062_SBCK_014-5b11}
   - {type: indent, offset: 1963, content: 　, id: KR3l0062_krp_014-bkkind143}
   - {type: punctuation, offset: 1966, content: (, id: KR3l0062_krp_014-bkkpn6}
+  - {type: voice, offset: 1966, length: 5, name: note, id: n3}
   - {type: punctuation, offset: 1969, content: /, id: KR3l0062_krp_014-bkkpn7}
   - {type: punctuation, offset: 1971, content: ), id: KR3l0062_krp_014-bkkpn8}
   - {type: variant, offset: 1972, length: 1, content: 貟, WYG: 員}
@@ -956,6 +960,7 @@ markers:
   - {type: variant, offset: 2083, length: 1, content: 迎, WYG: 迊}
   - {type: substitution, offset: 2085, original: 内, replacement: 內, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20757}}
   - {type: punctuation, offset: 2089, content: (, id: KR3l0062_krp_014-bkkpn9}
+  - {type: voice, offset: 2089, length: 12, name: note, id: n4}
   - {type: punctuation, offset: 2095, content: /, id: KR3l0062_krp_014-bkkpn10}
   - {type: variant, offset: 2098, length: 1, content: 厅, WYG: 㕔}
   - {type: substitution, offset: 2098, original: 厅, replacement: 廳, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16194}}
@@ -1280,6 +1285,7 @@ markers:
   - {type: line-break, offset: 2741, content: '', id: KR3l0062_SBCK_014-7b08}
   - {type: punctuation, offset: 2741, content: (, id: KR3l0062_krp_014-bkkpn12}
   - {type: variant, offset: 2741, length: 3, content: 百六九, WYG: ''}
+  - {type: voice, offset: 2741, length: 3, name: note, id: n5}
   - {type: punctuation, offset: 2744, content: ), id: KR3l0062_krp_014-bkkpn13}
   - {type: variant, offset: 2749, length: 1, content: 廼, WYG: 迺}
   - {type: substitution, offset: 2749, original: 廼, replacement: 乃, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16165}}
@@ -1745,6 +1751,7 @@ markers:
   - {type: line-break, offset: 3785, content: '', id: KR3l0062_SBCK_014-10a08}
   - {type: indent, offset: 3785, content: 　, id: KR3l0062_krp_014-bkkind249}
   - {type: punctuation, offset: 3790, content: (, id: KR3l0062_krp_014-bkkpn14}
+  - {type: voice, offset: 3790, length: 10, name: note, id: n6}
   - {type: substitution, offset: 3793, original: 碕, replacement: 崎, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19967}}
   - {type: punctuation, offset: 3795, content: /, id: KR3l0062_krp_014-bkkpn15}
   - {type: variant, offset: 3796, length: 1, content: 㝡, WYG: 最}
@@ -1766,6 +1773,7 @@ markers:
   - {type: indent, offset: 3828, content: 　, id: KR3l0062_krp_014-bkkind251}
   - {type: variant, offset: 3829, length: 1, content: 酋, WYG: 帥}
   - {type: punctuation, offset: 3830, content: (, id: KR3l0062_krp_014-bkkpn17}
+  - {type: voice, offset: 3830, length: 6, name: note, id: n7}
   - {type: variant, offset: 3831, length: 1, content: 酋, WYG: 帥}
   - {type: punctuation, offset: 3833, content: /, id: KR3l0062_krp_014-bkkpn18}
   - {type: punctuation, offset: 3836, content: ), id: KR3l0062_krp_014-bkkpn19}
@@ -1991,6 +1999,7 @@ markers:
   - {type: line-break, offset: 4325, content: '', id: KR3l0062_SBCK_014-11b03}
   - {type: punctuation, offset: 4325, content: (, id: KR3l0062_krp_014-bkkpn20}
   - {type: variant, offset: 4325, length: 3, content: 百七十, WYG: ''}
+  - {type: voice, offset: 4325, length: 3, name: note, id: n8}
   - {type: punctuation, offset: 4328, content: ), id: KR3l0062_krp_014-bkkpn21}
   - {type: variant, offset: 4329, length: 1, content: 頴, WYG: 穎}
   - {type: variant, offset: 4330, length: 1, content: 彦, WYG: 彥}
@@ -2987,4 +2996,4 @@ markers:
   - {type: variant, offset: 6583, length: 0, content: '', WYG: 欽定四庫全書揮麈後録卷十宋王明清撰吳傅朋説}
   - {type: page-break, offset: 6583, content: '', id: KR3l0062_WYG_014-1a, image: WYG1038/WYG1038-0515c.png}
   back: []
-hash: sha256:82e691136b084fccac63eca462d1a2a2150a9042c5f66226bdeccc8dde3dc8fc
+hash: sha256:63cac9775221b77257c0a6ca9888d20b81cafe0f4c40676c9b2fc0b219205538
